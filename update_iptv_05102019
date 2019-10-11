@@ -31,14 +31,14 @@ https://tv.xpeer-cdn.com/02_AMARINHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-shift="+0" tvg-id="AmarinTV.th" tvg-name="Amarin TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png&w=320&h=240" group-title="DIGITAL TV",AMARIN TV(สำรอง1)
 https://live.dufree4k.net/02_AMARINHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-shift="+0" tvg-id="Thairath.th" tvg-name="Thairath TH" tvg-logo="http://static.iptv-epg.com/th/Thairath.th.png" group-title="DIGITAL TV",THAIRAT TV
+#EXTINF:-1 tvg-chno="7" tvg-shift="+0" tvg-id="Thairath.th" tvg-name="Thairath TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-thairath.png" group-title="DIGITAL TV",THAIRAT TV
 https://tv.xpeer-cdn.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-shift="+0" tvg-id="Thairath.th" tvg-name="Thairath TH" tvg-logo="http://static.iptv-epg.com/th/Thairath.th.png" group-title="DIGITAL TV",THAIRAT TV(สำรอง1)
+#EXTINF:-1 tvg-chno="6" tvg-shift="+0" tvg-id="THAIRAT TV" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-thairath.png" group-title="DIGITAL TV",THAIRAT TV(สำรอง1) 
 https://live.dufree4k.net/02_THAIRATH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-shift="+0" tvg-id="PPTV.th" tvg-name="PPTV TH" tvg-logo="http://static.iptv-epg.com/th/PPTV.th.png" group-title="DIGITAL TV",PPTV TH
+#EXTINF:-1 tvg-chno="8" tvg-shift="+0" tvg-id="PPTV.th" tvg-name="PPTV TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-pptv.png" group-title="DIGITAL TV",PPTV TH
 https://tv.xpeer-cdn.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-shift="+0" tvg-id="PPTV.th" tvg-name="PPTV TH" tvg-logo="http://static.iptv-epg.com/th/PPTV.th.png" group-title="DIGITAL TV",PPTV TH(สำรอง1)
+#EXTINF:-1 tvg-chno="8" tvg-shift="+0" tvg-id="PPTV.th" tvg-name="PPTV TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-pptv.png" group-title="DIGITAL TV",PPTV TH(สำรอง1)
 https://live.dufree4k.net/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-shift="+0" tvg-id="Workpoint.th" tvg-name="Workpoint TH" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=320&h=240" group-title="DIGITAL TV",WORkPOINT
@@ -46,7 +46,7 @@ https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8ooYtdOsn9kuLaC7Xe
 #EXTINF:-1 tvg-chno="9" tvg-shift="+0" tvg-id="Workpoint.th" tvg-name="Workpoint TH" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=320&h=240" group-title="DIGITAL TV",WORkPOINT(สำรอง1)
 https://live.dufree4k.net/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-shift="+0" tvg-id="Workpoint.th" tvg-name="Workpoint TH" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=320&h=240" group-title="DIGITAL TV",WORkPOINT 1080P
-https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8kIToxgbm4aLfKxzP5vddcE)/dm/3/x6g9qjj/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8ooYtdOsn9kuLaC7XeVZDjI)/dm/3/x6g9qjj/s/live-4.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-shift="+0" tvg-id="One31.th" tvg-name="One 31 TH" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=320&h=240" group-title="DIGITAL TV",ONE31
 https://tv.xpeer-cdn.com/02_GMMONE_720p/chunklist.m3u8
@@ -58,19 +58,16 @@ https://tv.xpeer-cdn.com/02_NBTSD_480p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-shift="+0" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/10/bd72a81b-e87a-4edf-bbe0-cae1dd0f88b9.png&w=320&h=240" group-title="DIGITAL TV",NBTSD(สำรอง1)
 https://live.dufree4k.net/02_NBTSD_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/10/8412bf3f-cc4b-4958-8c3e-899d372cba6a.png&w=320&h=240" group-title="DIGITAL TV",CH3SD
-https://tv.xpeer-cdn.com/02_CH3SD_480p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/10/8412bf3f-cc4b-4958-8c3e-899d372cba6a.png&w=320&h=240" group-title="DIGITAL TV",CH3SD(สำรอง1)
-https://live.dufree4k.net/02_CH3SD_480p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Channel8.th" tvg-name="Channel 8 TH" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=320&h=240" group-title="DIGITAL TV",CH8
 https://tv.xpeer-cdn.com/02_8HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="Channel8.th" tvg-name="Channel 8 TH" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=320&h=240" group-title="DIGITAL TV",CH8(สำรอง1)
 https://live.dufree4k.net/02_8HD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="GMM25.th" tvg-name="GMM 25 TH" tvg-logo="http://yimhd.com/tv_online/images/gmm25.jpg" group-title="DIGITAL TV",GMM-Z
+#EXTINF:-1 tvg-chno="14" tvg-id="GMM25.th" tvg-name="GMM 25 TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png" group-title="DIGITAL TV",GMM-Z
 https://tv.xpeer-cdn.com/02_GMM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="GMM25.th" tvg-name="GMM 25 TH" tvg-logo="http://yimhd.com/tv_online/images/gmm25.jpg" group-title="DIGITAL TV",GMM-Z(สำรอง1)
+#EXTINF:-1 tvg-chno="14" tvg-id="GMM25.th" tvg-name="GMM 25 TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png" group-title="DIGITAL TV",GMM-Z(สำรอง1)
 https://live.dufree4k.net/02_GMM_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/16/952c9806-c7db-42d0-9647-415a643375b3.png&w=320&h=240" group-title="DIGITAL TV",NATION
@@ -92,6 +89,12 @@ https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง2)
 https://tvrealtime.com/live/BEIN1/chunks.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-shift="+0" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง3)
+https://live.youlive-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-shift="+0" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง4)
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+https://live.youlive-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-chno="54" tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="SPORT TV",PremierFootball HD2
 https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
@@ -99,6 +102,11 @@ https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
 https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="SPORT TV",PremierFootball HD2(สำรอง2)
 https://tvrealtime.com/live/BEIN2/chunks.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="SPORT TV",PremierFootball HD2(สำรอง3)
+https://live.youlive-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="SPORT TV",PremierFootball HD2(สำรอง4)
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="57" tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football 3 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="SPORT TV",PremierFootball HD3
 https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
@@ -106,30 +114,43 @@ https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
 https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football 3 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="SPORT TV",PremierFootball HD3(สำรอง2)
 https://tvrealtime.com/live/BEIN3/chunks.m3u8
-
+#EXTINF:-1 tvg-chno="57" tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football 3 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="SPORT TV",PremierFootball HD3(สำรอง3)
+https://live.youlive-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football 3 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="SPORT TV",PremierFootball HD3(สำรอง4)
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPORT TV",PremierFootball HD4
 https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPORT TV",PremierFootball HD4(สำรอง1)
 https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPORT TV",PremierFootball HD4(สำรอง2)
 https://tvrealtime.com/live/BEIN4/chunks.m3u8
-
+#EXTINF:-1 tvg-chno="58" tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPORT TV",PremierFootball HD4(สำรอง3)
+https://live.youlive-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPORT TV",PremierFootball HD4(สำรอง4)
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="SPORT TV",PremierFootball HD5
 https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="SPORT TV",PremierFootball HD5(สำรอง1)
 https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="SPORT TV",PremierFootball HD5(สำรอง2)
 https://tvrealtime.com/live/BEIN5/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="http://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORT TV",beIN Sports 1 TH
+#EXTINF:-1 tvg-chno="59" tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="SPORT TV",PremierFootball HD5(สำรอง3)
+https://live.youlive-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="SPORT TV",PremierFootball HD5(สำรอง4)
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH
 https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="http://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORT TV",beIN Sports 1 TH(สำรอง1)
+#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH(สำรอง1)
 https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH(สำรอง2)
+https://live.youlive-cdn.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="http://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORT TV",beIN Sports 2 TH
+#EXTINF:-1 tvg-chno="62" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH
 https://tv.xpeer-cdn.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="http://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง1)
+#EXTINF:-1 tvg-chno="63" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง1)
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง2)
+https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1
 https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
@@ -200,6 +221,27 @@ https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
 https://tv.xpeer-cdn.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="67"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport4.png" group-title="SPORT TV",True Sport 4 HD(สำรอง1)
 https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="68" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",SPORTTV 1
+https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-chno="68" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",SPORTTV 2
+https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-chno="68" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BTSPORT 1
+https://live.youlive-cdn.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-chno="68" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BTSPORT 2
+https://live.youlive-cdn.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="73"  tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS
 https://tv.xpeer-cdn.com/02_TennisHD_720p/chunklist.m3u8
@@ -348,9 +390,9 @@ http://210.210.155.35/uq2663/h/h07/01.m3u8
 
 ###################################################################################################################################
 #GARTOON 151-160
-#EXTINF:-1 tvg-chno="151" tvg-id="CartoonNetwork.th" tvg-name="Cartoon Network TH" tvg-logo="http://static.iptv-epg.com/th/CartoonNetwork.th.png" group-title="GARTOON",CARTOON NETWORK
+#EXTINF:-1 tvg-chno="151" tvg-id="CartoonNetwork.th" tvg-name="Cartoon Network TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png" group-title="GARTOON",CARTOON NETWORK
 https://tv.xpeer-cdn.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-id="CartoonNetwork.th" tvg-name="Cartoon Network TH" tvg-logo="http://static.iptv-epg.com/th/CartoonNetwork.th.png" group-title="GARTOON",CARTOON NETWORK(สำรอง1)
+#EXTINF:-1 tvg-chno="151" tvg-id="CartoonNetwork.th" tvg-name="Cartoon Network TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png" group-title="GARTOON",CARTOON NETWORK(สำรอง1)
 https://live.dufree4k.net/02_CartoonNetwork_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-disneyxd.png" group-title="GARTOON",DisneyXD
@@ -396,19 +438,19 @@ https://tv.xpeer-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-discovery.png" group-title="Documentary",DISCOVERY HD WORLD(สำรอง1)
 https://live.dufree4k.net/02_DiscoveryHDWorld/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="173" tvg-id="HistoryChannel.th" tvg-name="History Channel TH" tvg-logo="http://static.iptv-epg.com/th/HistoryChannel.th.png" group-title="Documentary",History
+#EXTINF:-1 tvg-chno="173" tvg-id="HistoryChannel.th" tvg-name="History Channel TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png" group-title="Documentary",History
 https://tv.xpeer-cdn.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-id="HistoryChannel.th" tvg-name="History Channel TH" tvg-logo="http://static.iptv-epg.com/th/HistoryChannel.th.png" group-title="Documentary",History(สำรอง1)
+#EXTINF:-1 tvg-chno="174" tvg-id="HistoryChannel.th" tvg-name="History Channel TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png" group-title="Documentary",History(สำรอง1)
 https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-id="History2.th" tvg-name="History 2 TH" tvg-logo="http://static.iptv-epg.com/th/History2.th.png" group-title="Documentary",H2 HD
+#EXTINF:-1 tvg-chno="175" tvg-id="History2.th" tvg-name="History 2 TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png" group-title="Documentary",H2 HD
 https://tv.xpeer-cdn.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="History2.th" tvg-name="History 2 TH" tvg-logo="http://static.iptv-epg.com/th/History2.th.png" group-title="Documentary",H2 HD(สำรอง1)
+#EXTINF:-1 tvg-chno="176" tvg-id="History2.th" tvg-name="History 2 TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png" group-title="Documentary",H2 HD(สำรอง1)
 https://live.dufree4k.net/02_H2HD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="177" tvg-id="Discovery.th" tvg-name="Discovery TH" tvg-logo="http://static.iptv-epg.com/th/Discovery.th.png" group-title="Documentary",Discovery Channel
+#EXTINF:-1 tvg-chno="177" tvg-id="Discovery.th" tvg-name="Discovery TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png" group-title="Documentary",Discovery Channel
 https://tv.xpeer-cdn.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-id="Discovery.th" tvg-name="Discovery TH" tvg-logo="http://static.iptv-epg.com/th/Discovery.th.png" group-title="Documentary",Discovery Channel(สำรอง1)
+#EXTINF:-1 tvg-chno="178" tvg-id="Discovery.th" tvg-name="Discovery TH" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png" group-title="Documentary",Discovery Channel(สำรอง1)
 https://live.dufree4k.net/02_DiscoveryChannel/chunklist.m3u8
 
 ###########################################################################################################################################3
