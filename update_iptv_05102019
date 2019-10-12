@@ -182,7 +182,7 @@ https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports3.png" group-title="SPORT TV", SKYNET-SPORT-3
 https://tv.xpeer-cdn.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="78"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports3.png" group-title="SPORT TV", SKYNET-SPORT-3(สำรอง1)
+#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports3.png" group-title="SPORT TV", SKYNET-SPORT-3(สำรอง1)
 https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="69"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports4.png" group-title="SPORT TV", SKYNET-SPORT-4
