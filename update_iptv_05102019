@@ -135,105 +135,106 @@ https://tvrealtime.com/live/BEIN5/chunks.m3u8
 https://live.youlive-cdn.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="SPORT TV",PremierFootball HD5(สำรอง4)
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="60" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH
 https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH(สำรอง1)
+#EXTINF:-1 tvg-chno="60" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH(สำรอง1)
 https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH(สำรอง2)
+#EXTINF:-1 tvg-chno="60" tvg-shift="+0" tvg-id="beINSports1.th" tvg-name="beIN Sports 1 TH" tvg-logo="https://media.info/i/lf/300/1491349382/6589.png" group-title="SPORT TV",beIN Sports 1 TH(สำรอง2)
 https://live.youlive-cdn.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH
+#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH
 https://tv.xpeer-cdn.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง1)
+#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง1)
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง2)
+#EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง2)
 https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1
+#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1
 https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1(สำรอง)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1(สำรอง)
 https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports2.png" group-title="SPORT TV",Foxsports 2
+#EXTINF:-1 tvg-chno="63"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports2.png" group-title="SPORT TV",Foxsports 2
 https://tv.xpeer-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports2.png" group-title="SPORT TV",Foxsports 2(สำรอง)
+#EXTINF:-1 tvg-chno="63"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports2.png" group-title="SPORT TV",Foxsports 2(สำรอง)
 https://live.dufree4k.net/02_FoxSport2_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports3.png" group-title="SPORT TV",Foxsports 3
+#EXTINF:-1 tvg-chno="64"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports3.png" group-title="SPORT TV",Foxsports 3
 https://tv.xpeer-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports3.png" group-title="SPORT TV",Foxsports 3(สำรอง)
+#EXTINF:-1 tvg-chno="64"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports3.png" group-title="SPORT TV",Foxsports 3(สำรอง)
 https://live.dufree4k.net/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="75"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkynetSportHD.png" group-title="SPORT TV", SKYNET-SPORT-HD
+#EXTINF:-1 tvg-chno="65"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkynetSportHD.png" group-title="SPORT TV", SKYNET-SPORT-HD
 https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="75"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkynetSportHD.png" group-title="SPORT TV", SKYNET-SPORT-HD(สำรอง1)
+#EXTINF:-1 tvg-chno="65"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkynetSportHD.png" group-title="SPORT TV", SKYNET-SPORT-HD(สำรอง1)
 https://live.dufree4k.net/03_skynetsporthd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="76"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports1.png" group-title="SPORT TV", SKYNET-SPORT-1
+#EXTINF:-1 tvg-chno="66"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports1.png" group-title="SPORT TV", SKYNET-SPORT-1
 https://tv.xpeer-cdn.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="76"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports1.png" group-title="SPORT TV", SKYNET-SPORT-1(สำรอง1)
+#EXTINF:-1 tvg-chno="66"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports1.png" group-title="SPORT TV", SKYNET-SPORT-1(สำรอง1)
 https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="77"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports2.png" group-title="SPORT TV", SKYNET-SPORT-2
+#EXTINF:-1 tvg-chno="67"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports2.png" group-title="SPORT TV", SKYNET-SPORT-2
 https://tv.xpeer-cdn.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="77"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports2.png" group-title="SPORT TV", SKYNET-SPORT-2(สำรอง1)
+#EXTINF:-1 tvg-chno="67"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports2.png" group-title="SPORT TV", SKYNET-SPORT-2(สำรอง1)
 https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="78"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports3.png" group-title="SPORT TV", SKYNET-SPORT-3
+#EXTINF:-1 tvg-chno="68"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports3.png" group-title="SPORT TV", SKYNET-SPORT-3
 https://tv.xpeer-cdn.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="78"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports3.png" group-title="SPORT TV", SKYNET-SPORT-3(สำรอง1)
 https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="79"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports4.png" group-title="SPORT TV", SKYNET-SPORT-4
+#EXTINF:-1 tvg-chno="69"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports4.png" group-title="SPORT TV", SKYNET-SPORT-4
 https://tv.xpeer-cdn.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="79"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports4.png" group-title="SPORT TV", SKYNET-SPORT-4(สำรอง1)
+#EXTINF:-1 tvg-chno="69"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports4.png" group-title="SPORT TV", SKYNET-SPORT-4(สำรอง1)
 https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="80"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports5.png" group-title="SPORT TV", SKYNET-SPORT-5
+#EXTINF:-1 tvg-chno="70"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports5.png" group-title="SPORT TV", SKYNET-SPORT-5
 https://tv.xpeer-cdn.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="80"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports5.png" group-title="SPORT TV", SKYNET-SPORT-5(สำรอง1)
+#EXTINF:-1 tvg-chno="70"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports5.png" group-title="SPORT TV", SKYNET-SPORT-5(สำรอง1)
 https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports6.png" group-title="SPORT TV", SKYNET-SPORT-6
+#EXTINF:-1 tvg-chno="71"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports6.png" group-title="SPORT TV", SKYNET-SPORT-6
 https://tv.xpeer-cdn.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports6.png" group-title="SPORT TV", SKYNET-SPORT-6(สำรอง1)
+#EXTINF:-1 tvg-chno="71"  tvg-logo="https://www.fifa5t.com/api/table/icon/SkyNetSports6.png" group-title="SPORT TV", SKYNET-SPORT-6(สำรอง1)
 https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport1.png" group-title="SPORT TV",True Sport 1 HD
+#EXTINF:-1 tvg-chno="72"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport1.png" group-title="SPORT TV",True Sport 1 HD
 https://tv.xpeer-cdn.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport1.png" group-title="SPORT TV",True Sport 1 HD(สำรอง1)
+#EXTINF:-1 tvg-chno="72"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport1.png" group-title="SPORT TV",True Sport 1 HD(สำรอง1)
 https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport2.png" group-title="SPORT TV",True Sport 2 HD
+#EXTINF:-1 tvg-chno="73"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport2.png" group-title="SPORT TV",True Sport 2 HD
 https://tv.xpeer-cdn.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport2.png" group-title="SPORT TV",True Sport 2 HD(สำรอง1)
+#EXTINF:-1 tvg-chno="73"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport2.png" group-title="SPORT TV",True Sport 2 HD(สำรอง1)
 https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport3.png" group-title="SPORT TV",True Sport 3 HD
+#EXTINF:-1 tvg-chno="74"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport3.png" group-title="SPORT TV",True Sport 3 HD
 https://tv.xpeer-cdn.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport3.png" group-title="SPORT TV",True Sport 3 HD(สำรอง1)
+#EXTINF:-1 tvg-chno="74"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport3.png" group-title="SPORT TV",True Sport 3 HD(สำรอง1)
 https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport4.png" group-title="SPORT TV",True Sport 4 HD
+#EXTINF:-1 tvg-chno="75"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport4.png" group-title="SPORT TV",True Sport 4 HD
 https://tv.xpeer-cdn.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport4.png" group-title="SPORT TV",True Sport 4 HD(สำรอง1)
+#EXTINF:-1 tvg-chno="75"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport4.png" group-title="SPORT TV",True Sport 4 HD(สำรอง1)
 https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",SPORTTV 1
+#EXTINF:-1 tvg-chno="76" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",SPORTTV 1
 https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="81" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",SPORTTV 2
+#EXTINF:-1 tvg-chno="77" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",SPORTTV 2
 https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="81" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BTSPORT 1
+#EXTINF:-1 tvg-chno="78" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BTSPORT 1
 https://live.youlive-cdn.com/02_BTSPORTHD_1_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="81" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BTSPORT 2
+#EXTINF:-1 tvg-chno="79" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BTSPORT 2
 https://live.youlive-cdn.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS
+#EXTINF:-1 tvg-chno="80"  tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS
 https://tv.xpeer-cdn.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="81"  tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS(สำรอง1)
+#EXTINF:-1 tvg-chno="80"  tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS(สำรอง1)
 https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="81"  radio="true" tvg-logo="https://www.fifa5t.com/api/table/icon/GolfChannel.png" group-title="SPORT TV", GOLF
@@ -241,25 +242,25 @@ https://tv.xpeer-cdn.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="81"  radio="true" tvg-logo="https://www.fifa5t.com/api/table/icon/GolfChannel.png" group-title="SPORT TV", GOLF(สำรอง1)
 https://live.dufree4k.net/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="84"  tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="SPORT TV",NBA
+#EXTINF:-1 tvg-chno="82"  tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="SPORT TV",NBA
 https://tv.xpeer-cdn.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="84"  tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="SPORT TV",NBA(สำรอง1)
+#EXTINF:-1 tvg-chno="82"  tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="SPORT TV",NBA(สำรอง1)
 https://live.dufree4k.net/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="83"  tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="SPORT TV",FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
-#EXTINF:-1 tvg-chno="83"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport2.png" group-title="SPORT TV",TRUE Sport 2
+#EXTINF:-1 tvg-chno="84"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport2.png" group-title="SPORT TV",TRUE Sport 2
 http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="83"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport5.png" group-title="SPORT TV",TRUE Sport 5
+#EXTINF:-1 tvg-chno="85  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport5.png" group-title="SPORT TV",TRUE Sport 5
 http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="83"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport6.png" group-title="SPORT TV",TRUE Sport 6
+#EXTINF:-1 tvg-chno="86"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport6.png" group-title="SPORT TV",TRUE Sport 6
 http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="83"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport7.png" group-title="SPORT TV",TRUE Sport 7
+#EXTINF:-1 tvg-chno="87"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport7.png" group-title="SPORT TV",TRUE Sport 7
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 
 #################################################################################################################################
