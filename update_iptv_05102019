@@ -89,9 +89,9 @@ https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง2)
 https://tvrealtime.com/live/BEIN1/chunks.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-shift="+0" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง3)
+#EXTINF:-1 tvg-chno="53" tvg-shift="+0" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง3)
 https://live.youlive-cdn.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-shift="+0" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง4)
+#EXTINF:-1 tvg-chno="53" tvg-shift="+0" tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT TV",PremierFootball HD1(สำรอง4)
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 https://live.youlive-cdn.com/02_PremierHD1_720p/chunklist.m3u8
 
