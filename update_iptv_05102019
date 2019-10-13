@@ -439,9 +439,9 @@ https://tv.xpeer-cdn.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE TV",HBO HIT(สำรอง1)
 https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="MOVIE TV",HBO SIGNATURE
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="MOVIE TV",HBO SIGNATURE
 https://tv.xpeer-cdn.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="139" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="MOVIE TV",HBO SIGNATURE(สำรอง1)
+#EXTINF:-1 tvg-chno="139" tvg-logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="MOVIE TV",HBO SIGNATURE(สำรอง1)
 https://live.dufree4k.net/02_HBOSignature_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE TV",HBO FAMILY
