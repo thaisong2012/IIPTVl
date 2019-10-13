@@ -196,15 +196,15 @@ https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง3)
 https://live.we-play.tv/app/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD
+#EXTINF:-1 tvg-chno="62"  tvg-logo="http://image.free.in.th/v/2013/iu/190306044535.png" group-title="SPORT TV",Foxsports HD
 https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง1)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="http://image.free.in.th/v/2013/iu/190306044535.png" group-title="SPORT TV",Foxsports HD(สำรอง1)
 https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง2)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="http://image.free.in.th/v/2013/iu/190306044535.png" group-title="SPORT TV",Foxsports HD(สำรอง2)
 https://live.youlive-cdn.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง3)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="http://image.free.in.th/v/2013/iu/190306044535.png" group-title="SPORT TV",Foxsports HD(สำรอง3)
 http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง4)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="http://image.free.in.th/v/2013/iu/190306044535.png" group-title="SPORT TV",Foxsports HD(สำรอง4)
 https://tvrealtime.com/live/FOXSPORT1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="63"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports2.png" group-title="SPORT TV",Foxsports 2
