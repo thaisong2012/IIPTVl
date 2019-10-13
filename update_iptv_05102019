@@ -391,9 +391,9 @@ https://tv.xpeer-cdn.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="FoxMovies.th" tvg-name="Fox Movies TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxpremium.png" group-title="MOVIE TV",FOX MOVIES PREMIUM TH(สำรอง1)
 https://live.dufree4k.net/02_FoxMoviesTH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="119" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-fx-1.jpg" group-title="MOVIE TV",FX Thailand
+#EXTINF:-1 tvg-chno="119" tvg-logo="https://www.clipartwiki.com/clipimg/detail/173-1730928_fx-tv-logo-tv-channel-logo-vector.png" group-title="MOVIE TV",FX Thailand
 https://tv.xpeer-cdn.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="120" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-fx-1.jpg" group-title="MOVIE TV",FX Thailand(สำรอง1)
+#EXTINF:-1 tvg-chno="120" tvg-logo="https://www.clipartwiki.com/clipimg/detail/173-1730928_fx-tv-logo-tv-channel-logo-vector.png" group-title="MOVIE TV",FX Thailand(สำรอง1)
 https://live.dufree4k.net/02_FXThailand_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-id="AXN.th" tvg-name="AXN TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-axn.png" group-title="MOVIE TV",AXN HD
@@ -429,24 +429,24 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png&w=320&h=240" group-title="MOVIE TV",M CHANNEL
 https://61.19.242.134:443/feed/chmchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="134" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="MOVIE TV",HBO HD
+#EXTINF:-1 tvg-chno="134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="MOVIE TV",HBO HD
 https://tv.xpeer-cdn.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg" group-title="MOVIE TV",HBO HD(สำรอง1)
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="MOVIE TV",HBO HD(สำรอง1)
 https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="136" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-hbohits.jpg" group-title="MOVIE TV",HBO HIT
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE TV",HBO HIT
 https://tv.xpeer-cdn.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="137" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-hbohits.jpg" group-title="MOVIE TV",HBO HIT(สำรอง1)
+#EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE TV",HBO HIT(สำรอง1)
 https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-hbosignature.jpg" group-title="MOVIE TV",HBO SIGNATURE
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="MOVIE TV",HBO SIGNATURE
 https://tv.xpeer-cdn.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="139" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-hbosignature.jpg" group-title="MOVIE TV",HBO SIGNATURE(สำรอง1)
+#EXTINF:-1 tvg-chno="139" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="MOVIE TV",HBO SIGNATURE(สำรอง1)
 https://live.dufree4k.net/02_HBOSignature_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://upload.wikimedia.org/wikipedia/th/4/4b/HBOfamily.jpg" group-title="MOVIE TV",HBO FAMILY
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE TV",HBO FAMILY
 https://tv.xpeer-cdn.com/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-logo="https://upload.wikimedia.org/wikipedia/th/4/4b/HBOfamily.jpg" group-title="MOVIE TV",HBO FAMILY(สำรอง1)
+#EXTINF:-1 tvg-chno="141" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE TV",HBO FAMILY(สำรอง1)
 https://live.dufree4k.net/02_HBOFamily_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/240px-KIX_logo.svg.png" group-title="MOVIE TV", KIX
