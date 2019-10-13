@@ -452,13 +452,13 @@ https://live.dufree4k.net/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/240px-KIX_logo.svg.png" group-title="MOVIE TV", KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-chno="143" group-title="MOVIE TV" tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
+#EXTINF:-1 tvg-chno="143" group-title="MOVIE TV" tvg-logo="https://img.over-blog-kiwi.com/100x100-ct/3/76/10/27/20191011/ob_2b3239_unnamed-1.png",Movies 1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="144" group-title="MOVIE TV" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
+#EXTINF:-1 tvg-chno="144" group-title="MOVIE TV" tvg-logo="https://img.over-blog-kiwi.com/100x100-ct/3/76/10/27/20191011/ob_2b3239_unnamed-1.png",Movies 2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="145" group-title="MOVIE TV" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+#EXTINF:-1 tvg-chno="145" group-title="MOVIE TV" tvg-logo="https://img.over-blog-kiwi.com/100x100-ct/3/76/10/27/20191011/ob_2b3239_unnamed-1.png",Movies 3
 http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-chno="146" group-title="MOVIE TV" tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
