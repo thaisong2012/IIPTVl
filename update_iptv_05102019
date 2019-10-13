@@ -196,15 +196,15 @@ https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-shift="+0" tvg-id="beINSports2.th" tvg-name="beIN Sports 2 TH" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORT TV",beIN Sports 2 TH(สำรอง3)
 https://live.we-play.tv/app/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1
+#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD
 https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1(สำรอง1)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง1)
 https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1(สำรอง2)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง2)
 https://live.youlive-cdn.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1(สำรอง3)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง3)
 http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
-#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports 1(สำรอง4)
+#EXTINF:-1 tvg-chno="62"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="SPORT TV",Foxsports HD(สำรอง4)
 https://tvrealtime.com/live/FOXSPORT1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="63"  tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports2.png" group-title="SPORT TV",Foxsports 2
@@ -301,8 +301,11 @@ https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="76" group-title="SPORT TV" tvg-logo="http://image.free.in.th/v/2013/iv/190916030009.jpg",SPORTTV 1
 https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="77" group-title="SPORT TV" tvg-logo="https://raw.githubusercontent.com/thaisong2012/IIPTVl/master/sportv2hd.PNG",SPORTTV 2
+#EXTINF:-1 tvg-chno="77" group-title="SPORT TV" tvg-logo="http://image.free.in.th/v/2013/ic/190916030440.jpg",SPORTTV 2
 https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="77" group-title="SPORT TV" tvg-logo="http://image.free.in.th/v/2013/ii/190916030939.jpg",SPORTTV 3
+https://live.youlive-cdn.com/02_SPORTTV_3_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-chno="78" group-title="SPORT TV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BTSPORT 1
 https://live.youlive-cdn.com/02_BTSPORTHD_1_720p/chunklist.m3u8
