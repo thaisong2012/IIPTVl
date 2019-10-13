@@ -298,13 +298,13 @@ https://tv.xpeer-cdn.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="75"  tvg-logo="https://images.xtreme4k.com/channels/hd-tsport4.png" group-title="SPORT TV",True Sport 4 HD(สำรอง1)
 https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="76" group-title="SPORT TV" tvg-logo="http://image.free.in.th/v/2013/iv/190916030009.jpg",SPORTTV 1
+#EXTINF:-1 tvg-chno="76" group-title="SPORT TV" tvg-logo="https://i.pinimg.com/originals/45/a5/e8/45a5e88c74ce6f2da570cbc6e81cdf05.png",SPORTTV 1
 https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="77" group-title="SPORT TV" tvg-logo="http://image.free.in.th/v/2013/ic/190916030440.jpg",SPORTTV 2
+#EXTINF:-1 tvg-chno="77" group-title="SPORT TV" tvg-logo="http://visaodigital.sytes.net/picons/sportv2hd.png",SPORTTV 2
 https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="77" group-title="SPORT TV" tvg-logo="http://image.free.in.th/v/2013/ii/190916030939.jpg",SPORTTV 3
+#EXTINF:-1 tvg-chno="77" group-title="SPORT TV" tvg-logo="http://visaodigital.sytes.net/picons/sportv3hd.png",SPORTTV 3
 https://live.youlive-cdn.com/02_SPORTTV_3_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-chno="78" group-title="SPORT TV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BTSPORT 1
