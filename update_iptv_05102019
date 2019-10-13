@@ -351,14 +351,14 @@ https://tv.xpeer-cdn.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-shift="+0" tvg-id="FoxThai.th" tvg-name="Fox Thai TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-fox.png" group-title="MOVIE TV",FOX THAI(สำรอง1)
 https://live.dufree4k.net/02_FoxThai_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-foxcrime-1.jpg" group-title="MOVIE TV",FoxCrimeHD EN
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/d/d6/Fox_Crime_Philippines_Logo_2005.png" group-title="MOVIE TV",FoxCrimeHD EN
 https://tv.xpeer-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-foxcrime-1.jpg" group-title="MOVIE TV",FoxCrimeHD EN(สำรอง1)
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/d/d6/Fox_Crime_Philippines_Logo_2005.png" group-title="MOVIE TV",FoxCrimeHD EN(สำรอง1)
 https://live.dufree4k.net/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-foxcrime-1.jpg" group-title="MOVIE TV",FoxCrimeHD TH
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/d/d6/Fox_Crime_Philippines_Logo_2005.png" group-title="MOVIE TV",FoxCrimeHD TH
 https://tv.xpeer-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-foxcrime-1.jpg" group-title="MOVIE TV",FoxCrimeHD TH(สำรอง1)
+#EXTINF:-1 tvg-chno="106" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/d/d6/Fox_Crime_Philippines_Logo_2005.png" group-title="MOVIE TV",FoxCrimeHD TH(สำรอง1)
 https://live.dufree4k.net/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-id="FoxActionMovies.th" tvg-name="Fox Action Movies TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxaction-1.png" group-title="MOVIE TV",FOX ACTION EN
@@ -401,9 +401,9 @@ https://tv.xpeer-cdn.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="AXN.th" tvg-name="AXN TH" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-axn.png" group-title="MOVIE TV",AXN HD(สำรอง1)
 https://live.dufree4k.net/02_AXNHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="123" tvg-id="RedbyHBO.vn" tvg-name="HBO Red VN" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-screenred.jpg" group-title="MOVIE TV",RedbyHBO HD
+#EXTINF:-1 tvg-chno="123" tvg-id="RedbyHBO.vn" tvg-name="HBO Red VN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="MOVIE TV",RedbyHBO HD
 https://tv.xpeer-cdn.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="124" tvg-id="RedbyHBO.vn" tvg-name="HBO Red VN" tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/07/hd-screenred.jpg" group-title="MOVIE TV",RedbyHBO HD(สำรอง1)
+#EXTINF:-1 tvg-chno="124" tvg-id="RedbyHBO.vn" tvg-name="HBO Red VN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="MOVIE TV",RedbyHBO HD(สำรอง1)
 https://live.dufree4k.net/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-id="TrueFilm.th" tvg-name="True Film TH" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png&w=320&h=240" group-title="MOVIE TV",TRUE FILM HD1
