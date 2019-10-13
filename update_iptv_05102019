@@ -310,35 +310,35 @@ https://live.youlive-cdn.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="79" group-title="SPORT TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BTSPORT 2
 https://live.youlive-cdn.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="80"  tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS
 https://tv.xpeer-cdn.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="80"  tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" group-title="SPORT TV", TENNIS(สำรอง1)
 https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="81"  radio="true" tvg-logo="https://www.fifa5t.com/api/table/icon/GolfChannel.png" group-title="SPORT TV", GOLF
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://www.fifa5t.com/api/table/icon/GolfChannel.png" group-title="SPORT TV", GOLF
 https://tv.xpeer-cdn.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="81"  radio="true" tvg-logo="https://www.fifa5t.com/api/table/icon/GolfChannel.png" group-title="SPORT TV", GOLF(สำรอง1)
 https://live.dufree4k.net/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="82"  tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="SPORT TV",NBA
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="SPORT TV",NBA
 https://tv.xpeer-cdn.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="82"  tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" group-title="SPORT TV",NBA(สำรอง1)
 https://live.dufree4k.net/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="83"  tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="SPORT TV",FIGHT SPORTS
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="SPORT TV",FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
-#EXTINF:-1 tvg-chno="84"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport2.png" group-title="SPORT TV",TRUE Sport 2
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport2.png" group-title="SPORT TV",TRUE Sport 2
 http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="85  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport5.png" group-title="SPORT TV",TRUE Sport 5
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport5.png" group-title="SPORT TV",TRUE Sport 5
 http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="86"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport6.png" group-title="SPORT TV",TRUE Sport 6
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport6.png" group-title="SPORT TV",TRUE Sport 6
 http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="87"  tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport7.png" group-title="SPORT TV",TRUE Sport 7
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport7.png" group-title="SPORT TV",TRUE Sport 7
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 
 #################################################################################################################################
