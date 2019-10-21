@@ -486,7 +486,7 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-id="Gang Cartoon" tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
-https://live.we-play.tv/app/disneych/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDE5IDQ6NTQ6MzcgUE0maGFzaF92YWx1ZT1sSjRhazNTcmd2eTZFSkYxSlJCcnZRPT0mdmFsaWRtaW51dGVzPTIw
+https://live.we-play.tv/app/disneych/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="156" tvg-id="Gang Cartoon" tvg-logo="https://www.doohdbox.com/assets/20181110075722846215341.jpg",ANIPLUS
 http://45.1#EXTINF:-1 tvg-chno="154" tvg-id="Gang Cartoon" 26.83.51/dr9445/h/h02/01.m3u8
