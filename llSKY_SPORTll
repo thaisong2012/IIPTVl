@@ -1,1 +1,247 @@
-tttttt
+#EXTM3U
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="",Sky Sports Mix
+http://sesat.tk:8080/aMmAARStr/uksports/1142
+#EXTINF:-1 tvg-name="Sky Sports Mix HD" tvg-logo="",Sky Sports Mix HD
+http://sesat.tk:8080/aMmAARStr/uksports/1143
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="",Sky Sports Main Event
+http://sesat.tk:8080/aMmAARStr/uksports/1144
+#EXTINF:-1 tvg-name="Sky Sports Main Events HD" tvg-logo="",Sky Sports Main Events HD
+http://sesat.tk:8080/aMmAARStr/uksports/1145
+#EXTINF:-1 tvg-name="Sky Sports PL" tvg-logo="",Sky Sports PL
+http://sesat.tk:8080/aMmAARStr/uksports/1146
+#EXTINF:-1 tvg-name="Sky Sports Premier League HD" tvg-logo="",Sky Sports Premier League HD
+http://sesat.tk:8080/aMmAARStr/uksports/1147
+#EXTINF:-1 tvg-name="Sky Sports Action" tvg-logo="",Sky Sports Action
+http://sesat.tk:8080/aMmAARStr/uksports/1148
+#EXTINF:-1 tvg-name="Sky Sports Action HD" tvg-logo="",Sky Sports Action HD
+http://sesat.tk:8080/aMmAARStr/uksports/1149
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="",Sky Sports Golf
+http://sesat.tk:8080/aMmAARStr/uksports/1150
+#EXTINF:-1 tvg-name="Sky Sports Golf HD" tvg-logo="",Sky Sports Golf HD
+http://sesat.tk:8080/aMmAARStr/uksports/1151
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="",Sky Sports Football
+http://sesat.tk:8080/aMmAARStr/uksports/1152
+#EXTINF:-1 tvg-name="Sky Sports Football HD" tvg-logo="",Sky Sports Football HD
+http://sesat.tk:8080/aMmAARStr/uksports/1153
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="",Sky Sports F1
+http://sesat.tk:8080/aMmAARStr/uksports/1154
+#EXTINF:-1 tvg-name="Sky Sports F1 HD" tvg-logo="",Sky Sports F1 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1155
+#EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="",Sky Sports Arena
+http://sesat.tk:8080/aMmAARStr/uksports/1156
+#EXTINF:-1 tvg-name="Sky Sports Arena HD" tvg-logo="",Sky Sports Arena HD
+http://sesat.tk:8080/aMmAARStr/uksports/1157
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="",Sky Sports Cricket
+http://sesat.tk:8080/aMmAARStr/uksports/1158
+#EXTINF:-1 tvg-name="Sky Sports Cricket HD" tvg-logo="",Sky Sports Cricket HD
+http://sesat.tk:8080/aMmAARStr/uksports/1159
+#EXTINF:-1 tvg-name="Sky Sports Racing" tvg-logo="",Sky Sports Racing
+http://sesat.tk:8080/aMmAARStr/uksports/1160
+#EXTINF:-1 tvg-name="Sky Sports Racing HD" tvg-logo="",Sky Sports Racing HD
+http://sesat.tk:8080/aMmAARStr/uksports/1161
+#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="",Sky Sports News
+http://sesat.tk:8080/aMmAARStr/uksports/1162
+#EXTINF:-1 tvg-name="Sky Sports News HD" tvg-logo="",Sky Sports News HD
+http://sesat.tk:8080/aMmAARStr/uksports/1163
+#EXTINF:-1 tvg-name="BT Sport ESPN HD" tvg-logo="",BT Sport ESPN HD
+http://sesat.tk:8080/aMmAARStr/uksports/1164
+#EXTINF:-1 tvg-name="BT Sport 1" tvg-logo="",BT Sport 1
+http://sesat.tk:8080/aMmAARStr/uksports/1165
+#EXTINF:-1 tvg-name="BT Sport 1 HD" tvg-logo="",BT Sport 1 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1166
+#EXTINF:-1 tvg-name="BT Sport 2" tvg-logo="",BT Sport 2
+http://sesat.tk:8080/aMmAARStr/uksports/1167
+#EXTINF:-1 tvg-name="BT Sport 2 HD" tvg-logo="",BT Sport 2 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1168
+#EXTINF:-1 tvg-name="BT Sport 3" tvg-logo="",BT Sport 3
+http://sesat.tk:8080/aMmAARStr/uksports/1169
+#EXTINF:-1 tvg-name="BT Sport 3 HD" tvg-logo="",BT Sport 3 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1170
+#EXTINF:-1 tvg-name="BT Sport//ESPN" tvg-logo="",BT Sport//ESPN
+http://sesat.tk:8080/aMmAARStr/uksports/1171
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="",Euronews
+http://sesat.tk:8080/aMmAARStr/uksports/1172
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="",Eurosport 1
+http://sesat.tk:8080/aMmAARStr/uksports/1173
+#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="",Eurosport 1 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1174
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="",Eurosport 2
+http://sesat.tk:8080/aMmAARStr/uksports/1175
+#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="",Eurosport 2 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1176
+#EXTINF:-1 tvg-name="eir Sport 1" tvg-logo="",eir Sport 1
+http://sesat.tk:8080/aMmAARStr/uksports/1177
+#EXTINF:-1 tvg-name="eir Sport 1 HD" tvg-logo="",eir Sport 1 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1178
+#EXTINF:-1 tvg-name="eir Sport 2" tvg-logo="",eir Sport 2
+http://sesat.tk:8080/aMmAARStr/uksports/1179
+#EXTINF:-1 tvg-name="eir Sport 2 HD" tvg-logo="",eir Sport 2 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1180
+#EXTINF:-1 tvg-name="Liverpool TV" tvg-logo="",Liverpool TV
+http://sesat.tk:8080/aMmAARStr/uksports/1181
+#EXTINF:-1 tvg-name="Liverpool FC TV HD" tvg-logo="",Liverpool FC TV HD
+http://sesat.tk:8080/aMmAARStr/uksports/1182
+#EXTINF:-1 tvg-name="MUTV HD" tvg-logo="",MUTV HD
+http://sesat.tk:8080/aMmAARStr/uksports/1183
+#EXTINF:-1 tvg-name="Racing TV" tvg-logo="",Racing TV
+http://sesat.tk:8080/aMmAARStr/uksports/1184
+#EXTINF:-1 tvg-name="Premier 1 HD" tvg-logo="",Premier 1 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1185
+#EXTINF:-1 tvg-name="Sky Sports Action FHD" tvg-logo="",Sky Sports Action FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1571
+#EXTINF:-1 tvg-name="Sky Sports Arena FHD" tvg-logo="",Sky Sports Arena FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1572
+#EXTINF:-1 tvg-name="Sky Sports Cricket FHD" tvg-logo="",Sky Sports Cricket FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1573
+#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-logo="",Sky Sports F1 FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1574
+#EXTINF:-1 tvg-name="Sky Sports Football FHD" tvg-logo="",Sky Sports Football FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1575
+#EXTINF:-1 tvg-name="Sky Sports Golf FHD" tvg-logo="",Sky Sports Golf FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1576
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-logo="",Sky Sports Main Event FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1577
+#EXTINF:-1 tvg-name="Sky Sports Mix FHD" tvg-logo="",Sky Sports Mix FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1578
+#EXTINF:-1 tvg-name="Sky Sports Premier League FHD" tvg-logo="",Sky Sports Premier League FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1579
+#EXTINF:-1 tvg-name="Sky Sports Racing FHD" tvg-logo="",Sky Sports Racing FHD
+http://sesat.tk:8080/aMmAARStr/uksports/1580
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="",WWE Network
+http://sesat.tk:8080/aMmAARStr/uksports/1581
+#EXTINF:-1 tvg-name="Premier Sports 2" tvg-logo="",Premier Sports 2
+http://sesat.tk:8080/aMmAARStr/uksports/1186
+#EXTINF:-1 tvg-name="Premier 2 HD" tvg-logo="",Premier 2 HD
+http://sesat.tk:8080/aMmAARStr/uksports/1187
+#EXTINF:-1 tvg-name="BoxNation" tvg-logo="",BoxNation
+http://sesat.tk:8080/aMmAARStr/uksports/1188
+#EXTINF:-1 tvg-name="Live Events 1 " tvg-logo="",Live Events 1 
+http://sesat.tk:8080/aMmAARStr/uksports/1582
+#EXTINF:-1 tvg-name="Live Events 2" tvg-logo="",Live Events 2
+http://sesat.tk:8080/aMmAARStr/uksports/1583
+#EXTINF:-1 tvg-name="Live Events 3 " tvg-logo="",Live Events 3 
+http://sesat.tk:8080/aMmAARStr/uksports/1584
+#EXTINF:-1 tvg-name="Live Events 4" tvg-logo="",Live Events 4
+http://sesat.tk:8080/aMmAARStr/uksports/1585
+#EXTINF:-1 tvg-name="Live Events 5" tvg-logo="",Live Events 5
+http://sesat.tk:8080/aMmAARStr/uksports/1586
+#EXTINF:-1 tvg-name="Live Events 6" tvg-logo="",Live Events 6
+http://sesat.tk:8080/aMmAARStr/uksports/1587
+#EXTINF:-1 tvg-name="Live Events 7" tvg-logo="",Live Events 7
+http://sesat.tk:8080/aMmAARStr/uksports/1588
+#EXTINF:-1 tvg-name="Live Events 8" tvg-logo="",Live Events 8
+http://sesat.tk:8080/aMmAARStr/uksports/1589
+#EXTINF:-1 tvg-name="Live Events 9" tvg-logo="",Live Events 9
+http://sesat.tk:8080/aMmAARStr/uksports/1590
+#EXTINF:-1 tvg-name="EPL 01
+" tvg-logo="",EPL 01
+
+http://sesat.tk:8080/aMmAARStr/uksports/1602
+#EXTINF:-1 tvg-name="EPL 02
+" tvg-logo="",EPL 02
+
+http://sesat.tk:8080/aMmAARStr/uksports/1603
+#EXTINF:-1 tvg-name="EPL 05
+" tvg-logo="",EPL 05
+
+http://sesat.tk:8080/aMmAARStr/uksports/1606
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 1 FHD
+" tvg-logo="",ZA: SUPERSPORT 1 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1620
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 2 FHD
+" tvg-logo="",ZA: SUPERSPORT 2 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1621
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 3 FHD
+" tvg-logo="",ZA: SUPERSPORT 3 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1622
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 4 FHD
+" tvg-logo="",ZA: SUPERSPORT 4 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1623
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 5 FHD
+" tvg-logo="",ZA: SUPERSPORT 5 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1624
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 6 FHD
+" tvg-logo="",ZA: SUPERSPORT 6 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1625
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 7 FHD
+" tvg-logo="",ZA: SUPERSPORT 7 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1626
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 8 FHD
+" tvg-logo="",ZA: SUPERSPORT 8 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1627
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 9 FHD
+" tvg-logo="",ZA: SUPERSPORT 9 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1628
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 10 FHD
+" tvg-logo="",ZA: SUPERSPORT 10 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1629
+#EXTINF:-1 tvg-name="ZA: SUPERSPORT 11 FHD
+" tvg-logo="",ZA: SUPERSPORT 11 FHD
+
+http://sesat.tk:8080/aMmAARStr/uksports/1630
+#EXTINF:-1 tvg-name="HIBS TV
+" tvg-logo="",HIBS TV
+
+http://sesat.tk:8080/aMmAARStr/uksports/1613
+#EXTINF:-1 tvg-name="CELTIC FC TV" tvg-logo="",CELTIC FC TV
+http://sesat.tk:8080/aMmAARStr/uksports/1612
+#EXTINF:-1 tvg-name="DUNDEE FC TV
+" tvg-logo="",DUNDEE FC TV
+
+http://sesat.tk:8080/aMmAARStr/uksports/1615
+#EXTINF:-1 tvg-name="ABERDEEN FC TV
+" tvg-logo="",ABERDEEN FC TV
+
+http://sesat.tk:8080/aMmAARStr/uksports/1614
+#EXTINF:-1 tvg-name="HEARTS FC TV
+" tvg-logo="",HEARTS FC TV
+
+http://sesat.tk:8080/aMmAARStr/uksports/1616
+#EXTINF:-1 tvg-name="KILMARNOCK FC TV
+" tvg-logo="",KILMARNOCK FC TV
+
+http://sesat.tk:8080/aMmAARStr/uksports/1619
+#EXTINF:-1 tvg-name="RANGERS TV" tvg-logo="",RANGERS TV
+http://sesat.tk:8080/aMmAARStr/uksports/1617
+#EXTINF:-1 tvg-name="MOTHERWELL FC TV
+" tvg-logo="",MOTHERWELL FC TV
+
+http://sesat.tk:8080/aMmAARStr/uksports/1618
+#EXTINF:-1 tvg-name="EPL 04 
+" tvg-logo="",EPL 04 
+
+http://sesat.tk:8080/aMmAARStr/uksports/1605
+#EXTINF:-1 tvg-name="EPL 03
+" tvg-logo="",EPL 03
+
+http://sesat.tk:8080/aMmAARStr/uksports/1604
+#EXTINF:-1 tvg-name="EPL 06
+" tvg-logo="",EPL 06
+
+http://sesat.tk:8080/aMmAARStr/uksports/1607
+#EXTINF:-1 tvg-name="EPL 07
+" tvg-logo="",EPL 07
+
+http://sesat.tk:8080/aMmAARStr/uksports/1608
+#EXTINF:-1 tvg-name="EPL 08
+" tvg-logo="",EPL 08
+
+http://sesat.tk:8080/aMmAARStr/uksports/1609
+#EXTINF:-1 tvg-name="EPL 10
+" tvg-logo="",EPL 10
+
+http://sesat.tk:8080/aMmAARStr/uksports/1611
+#EXTINF:-1 tvg-name="EPL 09
+" tvg-logo="",EPL 09
+
+http://sesat.tk:8080/aMmAARStr/uksports/1610
