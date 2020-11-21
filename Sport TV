@@ -1,0 +1,107 @@
+{
+"name": "ช่อง กีฬา",
+"author": "www.we-play.tv",
+"image": "https://www.we-play.tv/images/logo.png",
+"url": "https://pastebin.com/raw/FFN9cLhV",
+"stations": [
+	  
+
+{
+"name": "13 November 2020",  
+"image": "http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg",  
+"url": "https://www.we-play.tv/login",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Premier Football HD 1",
+"image": "https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png",
+"url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Premier Football HD 2",
+"image": "https://sv1.picz.in.th/images/2020/10/07/OG7B5g.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=152",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Premier Football HD 3",
+"image": "https://sv1.picz.in.th/images/2020/10/07/OG7fVW.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Premier Football HD 4",
+"image": "https://sv1.picz.in.th/images/2020/10/07/OG7kS2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Premier Football HD 5",
+"image": "https://sv1.picz.in.th/images/2020/10/07/OG79Cy.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 1",
+"image": "https://sv1.picz.in.th/images/2020/10/07/OG08Hz.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=18",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 2",
+"image": "https://sv1.picz.in.th/images/2020/10/07/OG0V78.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=19",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{name:"Bein Sport 1",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU",url:" https://www.we-play.tv/watching/tv/bein-sports-1","referer": "https://www.we-play.tv/" },
+{name:"Bein Sport 1",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU",url:" https://ball8k.com/m/ch.php?stream=bein1","referer": "https://ball8k.com/" },
+{name:"Bein Sport 2",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU",url:"https://www.we-play.tv/watching/tv/bein-sports-2","referer": "https://www.we-play.tv/" },
+{name:"Bein Sport 2",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU",url:"https://ball8k.com/m/ch.php?stream=bein2","referer": "https://ball8k.com/" },
+{"name": "Adjarasport 1","image":"https://i.imgur.com/mOkpenX.png","url": "https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8","referer": "https://receiver.adjara.com/","playInNatPlayer": "true"},
+{"name": "Adjarasport 2","image":"https://i.imgur.com/mOkpenX.png","url": "https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8","referer": "https://receiver.adjara.com/","playInNatPlayer": "true"},
+{"name": "Astro Arena","image":"https://img.favpng.com/20/21/0/astro-supersport-astro-arena-television-channel-png-favpng-9kfBWaRN456wzqktBthgnjAyR.jpg","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10365","referer": "","playInNatPlayer": "true"},
+{"name": "Astro Supersport","image":"https://archive.org/download/AstroSupersport1_201708/astro%20supersport%201.png","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10366","referer": "","playInNatPlayer": "true"},
+{"name": "Astro Supersport 2","image":"https://archive.org/services/img/AstroSupersport2","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10367","referer": "","playInNatPlayer": "true"},
+{"name": "Astro Supersport 3","image":"https://archive.org/services/img/AstroSupersport3","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10368","referer": "","playInNatPlayer": "true"},
+{"name": "Astro Supersport 4","image":"https://archive.org/services/img/AstroSupersport4","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10369","referer": "","playInNatPlayer": "true"},
+{"name": "Fox Sport","image":"https://www.blognone.com/sites/default/files/styles/large/public/news-thumbnails/Fox-Sports-logo.png?itok=Clk9mKfe","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10370","referer": "","playInNatPlayer": "true"},
+{"name": "Fox Sport","image":"https://www.blognone.com/sites/default/files/styles/large/public/news-thumbnails/Fox-Sports-logo.png?itok=Clk9mKfe","url":"https://www.doomovie-hd.com/?r=tv_view&id=28","referer": "https://www.doomovie-hd.com/" },
+{"name": "Fox Sport 2","image":"https://video.at712.com/wp-content/uploads/2019/03/Fox_sports_logo2.png","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10371","referer": "","playInNatPlayer": "true"},
+{"name": "Fox Sport 2","image":"https://video.at712.com/wp-content/uploads/2019/03/Fox_sports_logo2.png","url":"https://www.doomovie-hd.com/?r=tv_view&id=29","referer": "https://www.doomovie-hd.com/" },
+{"name": "Fox Sport 3","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png","url": "http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10372","referer": "","playInNatPlayer": "true"},
+{"name": "Fox Sport 3","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png","url":"https://www.doomovie-hd.com/?r=tv_view&id=30","referer": "https://www.doomovie-hd.com/" },
+{"name": "Sky Sports Premier League","image":"https://sv1.picz.in.th/images/2020/10/15/bdWrWI.png","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Premier League","image":"https://sv1.picz.in.th/images/2020/10/15/bdWrWI.png","url": "http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Football","image":"https://sv1.picz.in.th/images/2020/10/15/bd0siu.png","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Football","image":"https://sv1.picz.in.th/images/2020/10/15/bd0siu.png","url": "http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Mainevent","image":"https://sv1.picz.in.th/images/2020/10/15/bdYbJn.png","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Mainevent","image":"https://sv1.picz.in.th/images/2020/10/15/bdYbJn.png","url": "http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Arena","image":"https://sv1.picz.in.th/images/2020/10/15/bdS5vq.png","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Arena","image":"https://sv1.picz.in.th/images/2020/10/15/bdS5vq.png","url": "http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Golf","image":"https://sv1.picz.in.th/images/2020/10/15/bdSLGg.png","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Golf","image":"https://sv1.picz.in.th/images/2020/10/15/bdSLGg.png","url": "http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports F1","image":"https://sv1.picz.in.th/images/2020/10/15/bd0rJe.png","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports F1","image":"https://sv1.picz.in.th/images/2020/10/15/bd0rJe.png","url": "http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports NFL","image":"https://pbs.twimg.com/profile_images/1304289474596278272/Za3Bc5Ea_400x400.jpg","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports NFL","image":"https://pbs.twimg.com/profile_images/1304289474596278272/Za3Bc5Ea_400x400.jpg","url": "http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Cricket","image":"https://sv1.picz.in.th/images/2020/10/15/bdSnBl.png","url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-cricket.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Cricket","image":"https://sv1.picz.in.th/images/2020/10/15/bdSnBl.png","url": "http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Bundesliga","image":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Sky_Sport_Bundesliga_Logo_2016.png","url": "http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "Sky Sports Racing","image":"https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Racing-2020-logo-250.png","url": "http://160.119.77.116:8081/iptv/uk-attheraces.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "BT Sport 1","image":"https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0","url": "https://doofootball.livestream-cdn.com:443/iptv/uk-btsport1hd.stream/chunks.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "BT Sport 1","image":"https://24goals.com/wp-content/themes/ball/img/tvonline/bt1.jpg?v=1.0","url": "http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8","referer":"","playInNatPlayer": "true"},
+{"name": "BT Sport 2","image":"https://www.liveballsod.com/api/table/icon/BTSport2HD.png","url": "https://doofootball.livestream-cdn.com:443/iptv/uk-btsport2hd.stream/chunks.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "BT Sport 2","image":"https://www.liveballsod.com/api/table/icon/BTSport2HD.png","url": "http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8","referer":"","playInNatPlayer": "true"},
+{"name": "BT Sport 3","image":"https://www.liveballsod.com/api/table/icon/BTSport3HD.png","url": "https://doofootball.livestream-cdn.com:443/iptv/uk-btsport3hd.stream/chunks.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "BT Sport 3","image":"https://www.liveballsod.com/api/table/icon/BTSport3HD.png","url": "http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8","referer": "","playInNatPlayer": "true"},
+
+]
+}
