@@ -1,0 +1,67 @@
+{
+"name": "ดิจิตอลทีวี",
+"author": "https://tv.trueid.net/",
+"image": "https://cdn.icon-icons.com/icons2/935/PNG/512/television-outline_icon-icons.com_73141.png",
+"url": "https://pastebin.com/raw/Ds4nt0rH",
+"stations": [
+	  
+
+{
+"name": "13 November 2020",  
+"image": "http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg",  
+"url": "https://www.we-play.tv/login",
+"playInNatPlayer": "true"
+},
+{
+"name": "true4u",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",
+"url": "https://tv.trueid.net/live/true4u",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "7 HD",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240",
+"url": "https://tv.trueid.net/live/ch7-hd",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "3 HD",
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
+"url": "https://tv.trueid.net/live/ch3-hd",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "workpoint tv",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=320&h=240",
+"url": "https://tv.trueid.net/live/workpointtv",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "ช่อง 8",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F26%2Febe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=320&h=240",
+"url": "https://tv.trueid.net/live/ch8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "ไทยรัฐ ทีวี HD",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=320&h=240",
+"url": "https://tv.trueid.net/live/thairathtv-hd",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "พีพีทีวี HD",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fabe06a83-1e37-4dd7-aa4b-29c728954d90.png&w=320&h=240",
+"url": "https://tv.trueid.net/live/pptv-hd",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
