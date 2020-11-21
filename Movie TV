@@ -1,0 +1,79 @@
+{
+"name": "ช่องภาพยนต์",
+"author": "www.we-play.tv",
+"image": "https://www.we-play.tv/images/logo.png",
+"url": "https://pastebin.com/raw/LX5y1wCt",
+"stations": [
+	  
+
+{
+"name": "13 November 2020",  
+"image": "http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg",  
+"url": "https://www.we-play.tv/login",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox THAI",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OOK9IR.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-thai",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX-MOVIE",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OOZlm0.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Action Movies",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OO1W9Z.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-action-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Family Movies",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OO1K8W.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-family-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX CRIME",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg",
+"url": "https://tv.trueid.net/live/thairathtv-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Life",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704516.jpeg",
+"url": "https://www.we-play.tv/watching/tv/fox-life",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Food Network",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg",
+"url": "https://www.we-play.tv/watching/tv/food-network",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 7]","image":"","url": "https://ds4rth.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/25/1600984427se5p8.mp4.m3u8","referer": "","playInNatPlayer": "true"},
+
+{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 8]","image":"","url": "https://hty4e3.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/26/16011018429ezjm.mp4.m3u8","referer": "","playInNatPlayer": "true"},
+
+{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 9]","image":"","url": "https://f4h4he.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/29/1601364027xq1mw.mp4.m3u8","referer": "","playInNatPlayer": "true"},
+
+{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 10]","image":"","url": "https://6rf7dt.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/29/1601393887u8vd6.mp4.m3u8","referer": "","playInNatPlayer": "true"},
+
+{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 11]","image":"","url": "https://6rf7dt.cfeucdn.com/secip/46351/oQEtZZZbGi0Z9Ag25VrcHQ/MTgyLjIzMi4zNi4xNTE=/1605819600/hls-vod-s11/flv/api/files/videos/2020/10/01/16015558039atzs.mp4.m3u8","referer": "","playInNatPlayer": "true"},
+
+{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 12]","image":"","url": "https://hy53gd.cfeucdn.com/secip/46351/oQEtZZZbGi0Z9Ag25VrcHQ/MTgyLjIzMi4zNi4xNTE=/1605819600/hls-vod-s03/flv/api/files/videos/2020/10/03/1601718536boxtn.mp4.m3u8","referer": "","playInNatPlayer": "true"},
+
+{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 13]","image":"","url": "https://hy53gd.cfeucdn.com/secip/46351/oQEtZZZbGi0Z9Ag25VrcHQ/MTgyLjIzMi4zNi4xNTE=/1605819600/hls-vod-s03/flv/api/files/videos/2020/10/03/1601718556fyv9z.mp4.m3u8","referer": "","playInNatPlayer": "true"},
+
+]
+}
