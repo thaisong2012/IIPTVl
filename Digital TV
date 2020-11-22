@@ -13,85 +13,116 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "true4u",
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",
-"url": "https://www.sine.tv/tvonline/ch001/?jwsource=cl",
+"name": "ไทย ทีวี 3",
+"image": "https://ztvthai.online/uploads/tv_image/sm/3hd.png",
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
 "referer": "https://tv.trueid.net",
 "playInNatPlayer": "true"
 },
 {
-"name": "7 HD",
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240",
-"url": "https://tv.trueid.net/live/ch7-hd",
+"name": "ททบ. 5",
+"image": "https://ztvthai.online/uploads/tv_image/sm/ch-5-hd.png",
+"url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
 "referer": "https://tv.trueid.net",
 "playInNatPlayer": "true"
 },
 {
-"name": "3 HD",
-"image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
-"url": "https://tv.trueid.net/live/ch3-hd",
-"referer": "https://tv.trueid.net",
-"playInNatPlayer": "true"
-},
-{
-"name": "workpoint tv",
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=320&h=240",
-"url": "https://tv.trueid.net/live/workpointtv",
+"name": "ช่อง 7 สี",
+"image": "https://ztvthai.online/uploads/tv_image/sm/ch-7-hd.png",
+"url": "https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8",
 "referer": "https://tv.trueid.net",
 "playInNatPlayer": "true"
 },
 {
 "name": "ช่อง 8",
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F26%2Febe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=320&h=240",
-"url": "https://tv.trueid.net/live/ch8",
-"referer": "https://tv.trueid.net",
-"playInNatPlayer": "true"
-},
-{
-"name": "ไทยรัฐ ทีวี HD",
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=320&h=240",
-"url": "https://tv.trueid.net/live/thairathtv-hd",
-"referer": "https://tv.trueid.net",
-"playInNatPlayer": "true"
-},
-{
-"name": "พีพีทีวี HD",
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fabe06a83-1e37-4dd7-aa4b-29c728954d90.png&w=320&h=240",
-"url": "https://tv.trueid.net/live/pptv-hd",
+"image": "https://ztvthai.online/uploads/tv_image/sm/ch-8.png",
+"url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
 "referer": "https://tv.trueid.net",
 "playInNatPlayer": "true"
 },
 
+{
+"name": "ช่อง 9 MCOT",
+"image": "https://ztvthai.online/uploads/tv_image/sm/mcot-hd.png",
+"url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT",
+"image": "https://ztvthai.online/uploads/tv_image/sm/nbt.png",
+"url": "http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "WORKPOINT",
+"image": "https://ztvthai.online/uploads/tv_image/sm/workpoint-1.png",
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM 25",
+"image": "https://ztvthai.online/uploads/tv_image/sm/gmm25-hd.png",
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV",
+"image": "https://ztvthai.online/uploads/tv_image/sm/amarin-tv-hd.png",
+"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "ช่อง ONE 31",
+"image": "https://ztvthai.online/uploads/tv_image/sm/one-hd-31.png",
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "โมโน 29",
+"image": "https://ztvthai.online/uploads/tv_image/sm/mono-29.png",
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV",
+"image": "https://ztvthai.online/uploads/tv_image/sm/gmm25-hd.png",
+"url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE4U",
+"image": "https://ztvthai.online/uploads/tv_image/sm/true-4u.png",
+"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
 
 ]
 }
-#EXTM3U
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/3hd.png" group-title="ทีวีดิจิตอล",ไทย ทีวี 3
-https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/ch-5-hd.png" group-title="ทีวีดิจิตอล",ททบ. 5
-https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/ch-7-hd.png" group-title="ทีวีดิจิตอล",ช่อง 7 สี
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/ch-8.png" group-title="ทีวีดิจิตอล",ช่อง 8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/mcot-hd.png" group-title="ทีวีดิจิตอล",ช่อง 9 MCOT
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/nbt.png" group-title="ทีวีดิจิตอล",NBT
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/workpoint-1.png" group-title="ทีวีดิจิตอล",WORKPOINT
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/gmm25-hd.png" group-title="ทีวีดิจิตอล",GMM 25
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/amarin-tv-hd.png" group-title="ทีวีดิจิตอล",Amarin TV
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/one-hd-31.png" group-title="ทีวีดิจิตอล",ช่อง ONE 31
-https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/mono-29.png" group-title="ทีวีดิจิตอล",โมโน 29
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/pptv-hd.png" group-title="ทีวีดิจิตอล",PPTV
-https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/true-4u.png" group-title="ทีวีดิจิตอล",TRUE4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+
+
+#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
+
+#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
+
+#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
+
+#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
+
+#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/pptv-hd.png" group-title="ทีวีดิจิตอล",
+
+#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
+
 #EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/new-tv.png" group-title="ทีวีดิจิตอล",NEW18
 https://tv.ztvthai.online/androidboxm3u/newtv.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/nation-tv.png" group-title="ทีวีดิจิตอล",Nation TV
