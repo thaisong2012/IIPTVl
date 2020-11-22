@@ -94,7 +94,7 @@
 },
 {
 "name": "PPTV",
-"image": "https://ztvthai.online/uploads/tv_image/sm/gmm25-hd.png",
+"image": "https://ztvthai.online/uploads/tv_image/sm/pptv-hd.png",
 "url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
 "referer": "https://tv.trueid.net",
 "playInNatPlayer": "true"
@@ -107,33 +107,59 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "NEW18",
+"image": "https://ztvthai.online/uploads/tv_image/sm/new-tv.png",
+"url": "https://tv.ztvthai.online/androidboxm3u/newtv.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://ztvthai.online/uploads/tv_image/sm/nation-tv.png",
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "ThaiPBS",
+"image": "https://ztvthai.online/uploads/tv_image/sm/thai-pbs-hd.png",
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thairath TV",
+"image": "https://ztvthai.online/uploads/tv_image/sm/thairath-tv-hd.png",
+"url": "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TNN 2",
+"image": "https://ztvthai.online/uploads/tv_image/sm/tnn-2.png",
+"url": "https://tv.ztvthai.online/androidboxm3u/tnn-2.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN 16",
+"image": "https://ztvthai.online/uploads/tv_image/sm/tnn-16.png",
+"url": "https://tv.ztvthai.online/androidboxm3u/tnn16.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TPTV",
+"image": "https://ztvthai.online/uploads/tv_image/sm/tptv.png",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"referer": "https://tv.trueid.net",
+"playInNatPlayer": "true"
+},
+
 ]
 }
 
-
-#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
-
-#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
-
-#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
-
-#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
-
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/pptv-hd.png" group-title="ทีวีดิจิตอล",
-
-#EXTINF:-1 radio="false" tvg-logo="" group-title="ทีวีดิจิตอล",
-
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/new-tv.png" group-title="ทีวีดิจิตอล",NEW18
-https://tv.ztvthai.online/androidboxm3u/newtv.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/nation-tv.png" group-title="ทีวีดิจิตอล",Nation TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/thai-pbs-hd.png" group-title="ทีวีดิจิตอล",ThaiPBS
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/thairath-tv-hd.png" group-title="ทีวีดิจิตอล",Thairath TV
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/tnn-2.png" group-title="ทีวีดิจิตอล",TNN 2
-https://tv.ztvthai.online/androidboxm3u/tnn-2.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/tnn-16.png" group-title="ทีวีดิจิตอล",TNN 16
-https://tv.ztvthai.online/androidboxm3u/tnn16.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://ztvthai.online/uploads/tv_image/sm/tptv.png" group-title="ทีวีดิจิตอล",TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
