@@ -1,6 +1,6 @@
 {
 "name": "ช่องภาพยนต์",
-"author": "www.we-play.tv",
+"author": "ช่องภาพยนต์ เพื่อคนไทย",
 "image": "https://www.we-play.tv/images/logo.png",
 "url": "https://raw.githubusercontent.com/thaisong2012/IIPTVl/master/Movie%20TV",
 "stations": [
@@ -61,19 +61,6 @@
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 7]","image":"","url": "https://ds4rth.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/25/1600984427se5p8.mp4.m3u8","referer": "","playInNatPlayer": "true"},
-
-{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 8]","image":"","url": "https://hty4e3.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/26/16011018429ezjm.mp4.m3u8","referer": "","playInNatPlayer": "true"},
-
-{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 9]","image":"","url": "https://f4h4he.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/29/1601364027xq1mw.mp4.m3u8","referer": "","playInNatPlayer": "true"},
-
-{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 10]","image":"","url": "https://6rf7dt.cfeucdn.com/secip/46351/GIYHh3ZrOBpSjr0dmk-LDA/MTgyLjIzMi4zNi4xNTE=/1605776400/hls-vod-s03/flv/api/files/videos/2020/09/29/1601393887u8vd6.mp4.m3u8","referer": "","playInNatPlayer": "true"},
-
-{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 11]","image":"","url": "https://6rf7dt.cfeucdn.com/secip/46351/oQEtZZZbGi0Z9Ag25VrcHQ/MTgyLjIzMi4zNi4xNTE=/1605819600/hls-vod-s11/flv/api/files/videos/2020/10/01/16015558039atzs.mp4.m3u8","referer": "","playInNatPlayer": "true"},
-
-{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 12]","image":"","url": "https://hy53gd.cfeucdn.com/secip/46351/oQEtZZZbGi0Z9Ag25VrcHQ/MTgyLjIzMi4zNi4xNTE=/1605819600/hls-vod-s03/flv/api/files/videos/2020/10/03/1601718536boxtn.mp4.m3u8","referer": "","playInNatPlayer": "true"},
-
-{"name": "Agents of S.H.I.E.L.D Season 7 พากย์ไทย Ep.1-13 (จบ) - [สำรอง 13]","image":"","url": "https://hy53gd.cfeucdn.com/secip/46351/oQEtZZZbGi0Z9Ag25VrcHQ/MTgyLjIzMi4zNi4xNTE=/1605819600/hls-vod-s03/flv/api/files/videos/2020/10/03/1601718556fyv9z.mp4.m3u8","referer": "","playInNatPlayer": "true"},
 
 ]
 }
