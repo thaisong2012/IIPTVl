@@ -50,7 +50,7 @@
 {
 "name": "FOX Life",
 "image": "https://www.we-play.tv//uploads/posters/-poster1602704516.jpeg",
-"url": "https://www.we-play.tv/watching/tv/fox-life",
+"url": "http://103.245.164.105:1935/aplay/disneych/playlist.m3u8",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
