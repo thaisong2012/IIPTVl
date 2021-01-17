@@ -24,6 +24,14 @@
 "url": "https://raw.githubusercontent.com/thaisong2012/IIPTVll/master/Sport%20TV",
 "import": false
 },
+{
+"name": "ช่องกีฬา 2",
+"image": "https://sv1.picz.in.th/images/2020/11/22/byUXF1.png",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIPTVll/master/Sport2",
+"import": false
+},
+
+
 
 ]
 }
