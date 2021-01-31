@@ -92,12 +92,6 @@
 "url":"https://we-play.tv/watching/tv/discovery-channel",
 "referer": "https://we-play.tv/",
 },
-{
-"name":"animal-planet",
-"image":"https://img-cdn.we-play.tv/posters/animal-planet-poster1602705496.jpeg",
-"url":"https://we-play.tv/watching/tv/animal-planet",
-"referer": "https://we-play.tv/",
-},
 
 
 ]
