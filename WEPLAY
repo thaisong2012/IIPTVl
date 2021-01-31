@@ -1,28 +1,20 @@
 {
 "name": "TV Movies",
-"author": "royrover",
+"author": "IIPTVII",
 "image": "https://we-play.tv/images/logo.png",
-"url": "https://raw.githubusercontent.com/royrover/roy/master/Movies.w3u",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIPTVll/master/WEPLAY",
 "info": "", "stations": 
 [ 
 {
-"name":"ACTION HOLLYWOOD MOVIES",
-"image":"https://www.234.in.th/images/2020/12/21/Rounded_20201221_092032.png",
-"url":"http://203.154.177.124:8899/live/ch7/chunks.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
+"name":"national-geographic",
+"image":"https://img-cdn.we-play.tv/posters/national-geographic-poster1602705795.jpeg",
+"url":"https://we-play.tv/watching/tv/national-geographic",
+"referer":"https://we-play.tv/"
 },
 {
-"name":"AXN HD",
-"image":"https://www.234.in.th/images/2020/11/20/axn.png",
-"url":"https://doomovie.com/live/axn-hd",
-"referer":"https://doomovie.com/"
-},
-{
-"name":"AXN HD",
-"image":"https://www.234.in.th/images/2020/11/20/axn.png",
-"url":"https://www.we-play.tv/watching/tv/axn-hd",
+"name":",nat-geo-wild",
+"image":"https://img-cdn.we-play.tv/posters/nat-geo-wild-poster1602705760.jpeg",
+"url":"https://we-play.tv/watching/tv/nat-geo-wild",
 "referer": "https://we-play.tv/"
 },
 {
@@ -32,30 +24,25 @@
 "referer": "https://we-play.tv/"
 },
 {
-"name":"Cinemax HD",
-"image":"https://www.234.in.th/images/2020/11/20/cinemax.png",
-"url":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name":"CTB",
-"image":"https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",
-"url":"https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8"
-},
-{
-"name":"CCM",
-"image":"https://www.234.in.th/images/2020/11/20/classicmovies.png",
-"url":"https://www.we-play.tv/watching/tv/ccm",
+"name":"discovery-asia",
+"image":"https://img-cdn.we-play.tv/posters/discovery-asia-poster1602705589.jpeg",
+"url":"https://we-play.tv/watching/tv/discovery-asia",
 "referer": "https://we-play.tv/"
 },
 {
-"name":"CCM",
-"image":"https://www.234.in.th/images/2020/11/20/classicmovies.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/sd-celestial.stream/chunks.m3u8",
-"referer": "https://doofootball.com/"
+"name":"discovery-channel",
+"image":"https://img-cdn.we-play.tv/posters/discovery-channel-poster1602705554.jpeg",
+"url":"https://we-play.tv/watching/tv/discovery-channel",
+"referer": "https://we-play.tv/"
 },
 {
-"name":"Channel 8",
+"name":"animal-planet",
+"image":"https://img-cdn.we-play.tv/posters/animal-planet-poster1602705496.jpeg",
+"url":"https://we-play.tv/watching/tv/animal-planet",
+"referer": "https://we-play.tv/""
+},
+{
+"name":"history-hd",
 "image":"https://www.234.in.th/images/2020/11/26/Rounded_20201126_083337.png",
 "url":"https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
 "playInNatPlayer": "true"
