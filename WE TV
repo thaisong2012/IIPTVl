@@ -66,37 +66,37 @@
 "name":"national-geographic",
 "image":"https://img-cdn.we-play.tv/posters/national-geographic-poster1602705795.jpeg",
 "url":"https://we-play.tv/watching/tv/national-geographic",
-"referer":"https://we-play.tv/"
+"referer":"https://we-play.tv/",
 },
 {
 "name":",nat-geo-wild",
 "image":"https://img-cdn.we-play.tv/posters/nat-geo-wild-poster1602705760.jpeg",
 "url":"https://we-play.tv/watching/tv/nat-geo-wild",
-"referer": "https://we-play.tv/"
+"referer": "https://we-play.tv/",
 },
 {
 "name":"Cinemax HD",
 "image":"https://www.234.in.th/images/2020/11/20/cinemax.png",
 "url":"https://www.we-play.tv/watching/tv/cinemax",
-"referer": "https://we-play.tv/"
+"referer": "https://we-play.tv/",
 },
 {
 "name":"discovery-asia",
 "image":"https://img-cdn.we-play.tv/posters/discovery-asia-poster1602705589.jpeg",
 "url":"https://we-play.tv/watching/tv/discovery-asia",
-"referer": "https://we-play.tv/"
+"referer": "https://we-play.tv/",
 },
 {
 "name":"discovery-channel",
 "image":"https://img-cdn.we-play.tv/posters/discovery-channel-poster1602705554.jpeg",
 "url":"https://we-play.tv/watching/tv/discovery-channel",
-"referer": "https://we-play.tv/"
+"referer": "https://we-play.tv/",
 },
 {
 "name":"animal-planet",
 "image":"https://img-cdn.we-play.tv/posters/animal-planet-poster1602705496.jpeg",
 "url":"https://we-play.tv/watching/tv/animal-planet",
-"referer": "https://we-play.tv/""
+"referer": "https://we-play.tv/",
 },
 
 
