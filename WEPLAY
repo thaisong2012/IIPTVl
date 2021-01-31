@@ -3,7 +3,7 @@
 "author": "IIPTVII",
 "image": "https://we-play.tv/images/logo.png",
 "url": "https://raw.githubusercontent.com/thaisong2012/IIPTVll/master/WEPLAY",
-"info": "", "stations": 
+"stations": [
 [ 
 {
 "name":"national-geographic",
