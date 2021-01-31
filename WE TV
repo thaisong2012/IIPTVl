@@ -1,55 +1,66 @@
 {
-"name": "ช่องกีฬาxxxxxxx",
-"author": "ช่องกีฬา เพื่อคนไทย",
-"image": "https://sv1.picz.in.th/images/2020/11/22/byUXF1.png",
-"url": "https://raw.githubusercontent.com/thaisong2012/IIPTVl/master/Sport%20TV",
+"name": "ช่องภาพยนต์",
+"author": "ช่องภาพยนต์ เพื่อคนไทย",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDbMM5ojNpzvKdA59BL5F_EMUUcDWSq9uQTw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIPTVl/master/Movie%20TV",
 "stations": [
 	  
 
 {
-"name": "17 มกราคม 2564",  
+"name": "13 November 2020",  
 "image": "http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg",  
 "url": "https://www.we-play.tv/login",
 "playInNatPlayer": "true"
 },
 {
-"name":"national-geographic",
-"image":"https://img-cdn.we-play.tv/posters/national-geographic-poster1602705795.jpeg",
-"url":"https://we-play.tv/watching/tv/national-geographic",
-"referer":"https://we-play.tv/"
+"name": "Fox THAI",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OOK9IR.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-thai",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
 },
 {
-"name":",nat-geo-wild",
-"image":"https://img-cdn.we-play.tv/posters/nat-geo-wild-poster1602705760.jpeg",
-"url":"https://we-play.tv/watching/tv/nat-geo-wild",
-"referer": "https://we-play.tv/"
+"name": "FOX-MOVIE",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OOZlm0.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
 },
 {
-"name":"Cinemax HD",
-"image":"https://www.234.in.th/images/2020/11/20/cinemax.png",
-"url":"https://www.we-play.tv/watching/tv/cinemax",
-"referer": "https://we-play.tv/"
+"name": "FOX Action Movies",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OO1W9Z.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-action-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
 },
 {
-"name":"discovery-asia",
-"image":"https://img-cdn.we-play.tv/posters/discovery-asia-poster1602705589.jpeg",
-"url":"https://we-play.tv/watching/tv/discovery-asia",
-"referer": "https://we-play.tv/"
+"name": "FOX Family Movies",
+"image": "https://sv1.picz.in.th/images/2020/09/20/OO1K8W.jpg",
+"url": "https://www.we-play.tv/watching/tv/fox-family-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
 },
 {
-"name":"discovery-channel",
-"image":"https://img-cdn.we-play.tv/posters/discovery-channel-poster1602705554.jpeg",
-"url":"https://we-play.tv/watching/tv/discovery-channel",
-"referer": "https://we-play.tv/"
+"name": "FOX CRIME",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg",
+"url": "https://tv.trueid.net/live/thairathtv-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
 },
 {
-"name":"animal-planet",
-"image":"https://img-cdn.we-play.tv/posters/animal-planet-poster1602705496.jpeg",
-"url":"https://we-play.tv/watching/tv/animal-planet",
-"referer": "https://we-play.tv/""
+"name": "FOX Life",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704516.jpeg",
+"url": "http://103.245.164.105:1935/aplay/disneych/playlist.m3u8",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
 },
-
-
+{
+"name": "Food Network",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg",
+"url": "https://www.we-play.tv/watching/tv/food-network",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
 
 ]
 }
