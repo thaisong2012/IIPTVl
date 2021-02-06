@@ -3,9 +3,8 @@
 "author": "ช่องภาพยนต์ เพื่อคนไทย",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDbMM5ojNpzvKdA59BL5F_EMUUcDWSq9uQTw&usqp=CAU",
 "url": "https://raw.githubusercontent.com/thaisong2012/IIPTVl/master/Movie%20TV",
-"stations": [
-	  
-
+"info": "", "stations": 
+[
 {
 "name": "13 November 2020",  
 "image": "http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg",  
