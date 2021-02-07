@@ -25,6 +25,12 @@
 "import": false
 },
 {
+"name": "ช่องภาพยนต์ 2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDbMM5ojNpzvKdA59BL5F_EMUUcDWSq9uQTw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/thaisong2012/IIPTVll/master/Movie%20TV",
+"import": false
+},
+{
 "name": "ช่องกีฬา 1",
 "image": "https://sv1.picz.in.th/images/2020/11/22/byUXF1.png",
 "url": "https://raw.githubusercontent.com/thaisong2012/IIPTVll/master/Sport%20TV",
