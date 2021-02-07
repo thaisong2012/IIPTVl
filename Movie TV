@@ -1,6 +1,6 @@
 {
-"name": "ช่องภาพยนต์",
-"author": "ช่องภาพยนต์ เพื่อคนไทย",
+"name": "Movie TV",
+"author": "Movie TV1",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDbMM5ojNpzvKdA59BL5F_EMUUcDWSq9uQTw&usqp=CAU",
 "url": "https://raw.githubusercontent.com/thaisong2012/IIPTVl/master/Movie%20TV",
 "info": "", "stations": 
@@ -11,13 +11,6 @@
 "url": "https://www.we-play.tv/login",
 "playInNatPlayer": "true"
 },
-{
-"name":"Transit 17 (2019)",
-"image":"https://movie222hd.com/wp-content/uploads/Transit-17.jpg",
-"url":"https://nungth.b-cdn.net/vod/17tsrrs.mp4",
-"referer": "https://www.ok-anime.com"
-},	
-
 {
 "name": "Fox THAI",
 "image": "https://sv1.picz.in.th/images/2020/09/20/OOK9IR.jpg",
