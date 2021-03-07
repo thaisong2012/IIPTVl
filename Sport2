@@ -1,68 +1,47 @@
-{
-"name": "Sport TV",
+{"name": "Sport TV",
 "author": "Sport TV2",
 "image": "https://sv1.picz.in.th/images/2020/11/22/byUXF1.png",
 "url": "https://raw.githubusercontent.com/thaisong2012/IIPTVl/master/Sport%20TV",
 "stations": [
 	  
 
-{
-"name": "17 มกราคม 2564",  
+{"name": "17 มกราคม 2564",  
 "image": "http://commusic4.com/studio4/images/sound_v.5.3/NewUpdate1.jpg",  
 "url": "https://www.we-play.tv/login",
-"playInNatPlayer": "true"
-},
-{
-"name":"Premiere 1",
+"playInNatPlayer": "true"},
+{"name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
-"url": "https://stream.warpballsod.tv/epl1.m3u8",
-"referer": "https://www.warpballsod.tv/",
+"url": "https://stream.warpballsod.tv/epl1.m3u8","referer": "https://www.warpballsod.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 1",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8",
-"referer": "https://doofootball.com/"
-},	
-{
-"name":"Premiere 1",
+"referer": "https://doofootball.com/"},	
+{"name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
 "url":"https://doomovie.com/live/premier-football-hd-1",
-"referer": "https://doomovie.com/"
-},	
-{
-"name":"Premiere 1",
+"referer": "https://doomovie.com/"},	
+{"name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
 "url":"http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 1",
-"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
-"url":"http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 1",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 1",
+"image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png","url":"http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
 "url":"https://www.doofootball.com/live/streaming/epl1backup/552903",
-"referer": "https://doofootball.com/"
-},	
-{
-"name":"Premiere 1",
+"referer": "https://doofootball.com/"},	
+{"name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
 "url":"https://www.we-play.tv/watching/tv/true-premier-football-hd-1",
-"referer": "https://we-play.tv/"
-},	
-{
-"name":"Premiere 1",
+"referer": "https://we-play.tv/"},	
+{"name":"Premiere 1",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball1.png",
 "url":"https://www.doo2you.com/true-premier-hd-1/",
-"referer": "https://www.doo2you.com/"
-},
+"referer": "https://www.doo2you.com/"},
 {"name": "PremieLeague1",
 "image":"https://sv1.picz.in.th/images/2020/11/21/bmNdnq.png",
 "url":"https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tpf1","referer": "https://player.ballnaka.tv/", "playInNatPlayer": "true"},
@@ -120,362 +99,249 @@
 {"name": "PremieLeague1",
 "image":"https://sv1.picz.in.th/images/2020/11/21/bmNdnq.png",
 "url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1/","referer": "","playInNatPlayer": "true"},	
-{
-"name":"Premiere 2",
+{"name":"Premiere 2",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
 "url": "https://stream.warpballsod.tv/epl2.m3u8",
 "referer": "https://www.warpballsod.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 2",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 2",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8",
-"referer": "https://doofootball.com/"
-},	
-{
-"name":"Premiere 2",
+"referer": "https://doofootball.com/"},	
+{"name":"Premiere 2",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
 "url":"https://doomovie.com/live/premier-football-hd-2",
-"referer": "https://doomovie.com/"
-},	
-{
-"name":"Premiere 2",
+"referer": "https://doomovie.com/"},	
+{"name":"Premiere 2",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
 "url":"https://www.doo2you.com/true-premier-hd-2/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Premiere 2",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Premiere 2",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
 "url":"http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 2",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 2",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball2.png",
 "url":"http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 3",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 3",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
 "url": "https://stream.warpballsod.tv/epl3.m3u8",
 "referer": "https://www.warpballsod.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 3",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 3",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/epl-3.stream/chunks.m3u8",
-"referer": "https://doofootball.com/"
-},	
-{
-"name":"Premiere 3",
+"referer": "https://doofootball.com/"},	
+{"name":"Premiere 3",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
 "url":"https://doomovie.com/live/premier-football-hd-3",
-"referer": "https://doomovie.com/"
-},	
-{
-"name":"Premiere 3",
+"referer": "https://doomovie.com/"},	
+{"name":"Premiere 3",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
 "url":"https://www.doo2you.com/true-premier-hd-3/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Premiere 3",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Premiere 3",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
 "url":"http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 3",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 3",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball3.png",
 "url":"http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 4",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 4",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
 "url": "https://stream.warpballsod.tv/epl4.m3u8",
 "referer": "https://www.warpballsod.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 4",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 4",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/epl-4.stream/chunks.m3u8",
-"referer": "https://doofootball.com/"
-},	
-{
-"name":"Premiere 4",
+"referer": "https://doofootball.com/"},	
+{"name":"Premiere 4",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
 "url":"https://doomovie.com/live/premier-football-hd-4",
-"referer": "https://doomovie.com/"
-},	
-{
-"name":"Premiere 4",
+"referer": "https://doomovie.com/"},	
+{"name":"Premiere 4",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
 "url":"https://www.doo2you.com/true-premier-hd-4/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Premiere 4",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Premiere 4",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
 "url":"http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 4",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 4",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball4.png",
 "url":"http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 5",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 5",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
 "url": "https://stream.warpballsod.tv/epl5.m3u8",
 "referer": "https://www.warpballsod.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 5",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 5",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/epl-5.stream/chunks.m3u8",
-"referer": "https://doofootball.com/"
-},	
-{
-"name":"Premiere 5",
+"referer": "https://doofootball.com/"},	
+{"name":"Premiere 5",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
 "url":"https://doomovie.com/live/premier-football-hd-5",
-"referer": "https://doomovie.com/"
-},	
-{
-"name":"Premiere 5",
+"referer": "https://doomovie.com/"},	
+{"name":"Premiere 5",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
 "url":"https://www.doo2you.com/true-premier-hd-5/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Premiere 5",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Premiere 5",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
 "url":"http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Premiere 5",
+"playInNatPlayer": "true"},	
+{"name":"Premiere 5",
 "image":"https://www.234.in.th/images/2020/11/19/premierfootball5.png",
 "url":"http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Bein Sports 1",
+"playInNatPlayer": "true"},	
+{"name":"Bein Sports 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "url": "https://stream.warpballsod.tv/bein1.m3u8",
 "referer": "https://www.warpballsod.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Bein Sports 1",
+"playInNatPlayer": "true"},	
+{"name":"Bein Sports 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "url":"https://www.we-play.tv/watching/tv/bein-sports-1",
-"referer": "https://we-play.tv/"
-},	
-{
-"name":"Bein Sports 1",
+"referer": "https://we-play.tv/"},	
+{"name":"Bein Sports 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "url":"https://doomovie.com/live/bein-sports-1",
-"referer": "https://doomovie.com/"
-},	
-{
-"name":"Bein Sports 1",
+"referer": "https://doomovie.com/"},	
+{"name":"Bein Sports 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "url":"http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Bein Sports 1",
+"playInNatPlayer": "true"},	
+{"name":"Bein Sports 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "url":"https://www.doofootball.com/live/streaming/bein1/622765",
-"referer": "https://www.doofootball.com/"
-},	
-{
-"name":"Bein Sports 2",
+"referer": "https://www.doofootball.com/"},	
+{"name":"Bein Sports 2",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
 "url": "https://stream.warpballsod.tv/bein2.m3u8",
 "referer": "https://www.warpballsod.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 "userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Bein Sports 2",
+"playInNatPlayer": "true"},	
+{"name":"Bein Sports 2",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
 "url":"https://www.we-play.tv/watching/tv/bein-sports-2",
-"referer": "https://we-play.tv/"
-},	
-{
-"name":"Bein Sports 2",
+"referer": "https://we-play.tv/"},	
+{"name":"Bein Sports 2",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
 "url":"https://doomovie.com/live/bein-sports-2",
-"referer": "https://doomovie.com/"
-},	
-{
-"name":"Bein Sports 2",
+"referer": "https://doomovie.com/"},	
+{"name":"Bein Sports 2",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
 "url":"https://www.doo2you.com/bein-sport-2/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 2",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 2",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
 "url":"http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/"
-},	
-{
-"name":"Bein Sports 2",
+"referer": "https://www.doomovie-hd.com/"},	
+{"name":"Bein Sports 2",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",
 "url":"https://www.doofootball.com/live/streaming/bein2/622765",
-"referer": "https://www.doofootball.com/"
-},	
-{
-"name":"Bein Sports 1 AR",
+"referer": "https://www.doofootball.com/"},	
+{"name":"Bein Sports 1 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-1/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 2 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 2 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--753.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-2/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 3 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 3 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--754.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-3/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 4 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 4 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--755.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-4/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 5 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 5 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--756.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-5/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 6 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 6 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--757.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-6/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 7 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 7 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--758.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-7/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 8 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 8 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--759.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-8/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 9 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 9 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--760.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-bein9.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein Sports 9 AR",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein Sports 9 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--760.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-9/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein Sports 10 AR",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein Sports 10 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--761.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-bein10.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein Sports 10 AR",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein Sports 10 AR",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--761.png",
 "url":"https://www.doo2you.com/bein-sport-arabia-10/",
-"referer": "https://www.doo2you.com/"
-},	
-{
-"name":"Bein 1 France",
+"referer": "https://www.doo2you.com/"},	
+{"name":"Bein 1 France",
 "image":"https://sport-tv-guide.live/images/stations/a400.png",
 "url":"http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Bein 1 France",
+"playInNatPlayer": "true"},	
+{"name":"Bein 1 France",
 "image":"https://sport-tv-guide.live/images/stations/a400.png",
 "url":"https://www.doofootball.com/live/streaming/beinsport1fr/578604",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein 2 France",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein 2 France",
 "image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",
 "url":"http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Bein 2 France",
+"playInNatPlayer": "true"},	
+{"name":"Bein 2 France",
 "image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",
 "url":"https://www.doofootball.com/live/streaming/beinsport2fr/578604",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein 3 France",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein 3 France",
 "image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png",
 "url":"http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},	
-{
-"name":"Bein 3 France",
+"playInNatPlayer": "true"},	
+{"name":"Bein 3 France",
 "image":"https://sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png",
 "url":"https://www.doofootball.com/live/streaming/beinsport3fr/578604",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein 4 Max",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein 4 Max",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",
 "url":"https://www.doofootball.com/live/streaming/beinmax4fr/582059",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein 5 Max",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein 5 Max",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--404.png",
 "url":"https://www.doofootball.com/live/streaming/beinmax5fr/543039",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein 6 Max",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein 6 Max",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--405.png",
 "url":"https://www.doofootball.com/live/streaming/beinmax6fr/543035",
-"referer": "https://www.doofootball.com/live/"
-},	
-{
-"name":"Bein 1 TU",
+"referer": "https://www.doofootball.com/live/"},	
+{"name":"Bein 1 TU",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
 "url":"https://www.doofootball.com/live/streaming/beinsports1tu/558946",
 "referer": "https://www.doofootball.com/live/"
