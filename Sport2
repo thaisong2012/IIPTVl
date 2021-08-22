@@ -17,7 +17,7 @@
 
 {"name": "PremieLeague1",
 "image":"https://sv1.picz.in.th/images/2020/11/21/bmNdnq.png",
-"url":"https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8","referer": "","playInNatPlayer": "true"},
+"url":"https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8","referer": "https://www.livedoomovies.com/","playInNatPlayer": "true"},
 
 
 {"name": "PremieLeague1",
