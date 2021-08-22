@@ -16,7 +16,7 @@
 {"name": "PremieLeague1",
 "image":"https://sv1.picz.in.th/images/2020/11/21/bmNdnq.png",
 "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8","referer": "https://livescorethai.net/","playInNatPlayer": "true"},
-"referer": "","playInNatPlayer": "true"},
+"referer": ","playInNatPlayer": "true"},
 {"name": "PremieLeague1",
 "image":"https://sv1.picz.in.th/images/2020/11/21/bmNdnq.png",
 "url":"http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8","referer": "", "playInNatPlayer": "true"},
