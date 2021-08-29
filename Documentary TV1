@@ -64,7 +64,13 @@
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "ltmfm95.mcot.net",
+"image": "https://lh3.googleusercontent.com/zo9H6IPB3WPI44KvNAxgCcGLSsJ0sUfhBxuvK8CZDQOhXpliwBcAP3RazXzze11At7T4OQ=s142",
+"url": "https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8",
+"referer": "https://ltmfm95.mcot.net/",
+"playInNatPlayer": "true"
+},
 
 
 
