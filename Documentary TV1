@@ -14,14 +14,14 @@
 },
 {
 "name": "national-geographic",
-"image": "https://img-cdn.we-play.tv/posters/national-geographic-poster1602705795.jpeg",
+"image": "https://we-play.live/uploads/posters/national-geographic-poster1602705795.jpeg",
 "url": "https://we-play.tv/watching/tv/national-geographic",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "nat-geo-wild",
-"image": "https://img-cdn.we-play.tv/posters/nat-geo-wild-poster1602705760.jpeg",
+"image": "https://we-play.live/uploads/posters/nat-geo-wild-poster1602705760.jpeg",
 "url": "https://we-play.tv/watching/tv/nat-geo-wild",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -29,7 +29,7 @@
 
 {
 "name": "discovery-asia",
-"image": "https://img-cdn.we-play.tv/posters/discovery-asia-poster1602705589.jpeg",
+"image": "https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",
 "url": "https://we-play.tv/watching/tv/discovery-asia",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -37,7 +37,7 @@
 
 {
 "name": "discovery-channel",
-"image": "https://img-cdn.we-play.tv/posters/discovery-channel-poster1602705554.jpeg",
+"image": "https://we-play.live/uploads/posters/discovery-channel-poster1602705554.jpeg",
 "url": "https://we-play.tv/watching/tv/discovery-channel",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -45,21 +45,21 @@
 
 {
 "name": "animal-planet",
-"image": "https://img-cdn.we-play.tv/posters/animal-planet-poster1602705496.jpeg",
+"image": "https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg",
 "url": "https://we-play.tv/watching/tv/animal-planet",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "history-hd",
-"image": "https://img-cdn.we-play.tv/posters/history-hd-poster1602705667.jpeg",
+"image": "https://we-play.live/uploads/posters/history-hd-poster1602705667.jpeg",
 "url": "https://we-play.tv/watching/tv/history-hd",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "history-h2",
-"image": "https://img-cdn.we-play.tv/posters/history-h2-poster1602705634.jpeg",
+"image": "https://we-play.live/uploads/posters/history-h2-poster1602705634.jpeg" alt="History H2",
 "url": "https://we-play.tv/watching/tv/history-h2",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
