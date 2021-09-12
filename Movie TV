@@ -14,7 +14,7 @@
 {
 "name": "Fox THAI",
 "image": "https://sv1.picz.in.th/images/2020/09/20/OOK9IR.jpg",
-"url": "https://www.we-play.tv/watching/tv/fox-thai",
+"url": "https://we-play.live/watching/tv/fox-thai",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
@@ -28,36 +28,36 @@
 {
 "name": "FOX Action Movies",
 "image": "https://sv1.picz.in.th/images/2020/09/20/OO1W9Z.jpg",
-"url": "https://www.we-play.tv/watching/tv/fox-action-movies",
+"url": "https://we-play.live/watching/tv/fox-action-movies",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX Family Movies",
 "image": "https://sv1.picz.in.th/images/2020/09/20/OO1K8W.jpg",
-"url": "https://www.we-play.tv/watching/tv/fox-family-movies",
-"referer": "https://we-play.tv/",
+"url": "https://we-play.live/watching/tv/fox-family-movies",
+"referer": "https://www.we-play.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX CRIME",
 "image": "https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg",
-"url": "https://tv.trueid.net/live/thairathtv-hd",
-"referer": "https://we-play.tv/",
+"url": "https://we-play.live/watching/tv/fox-crime",
+"referer": "https://www.we-play.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX Life",
 "image": "https://www.we-play.tv//uploads/posters/-poster1602704516.jpeg",
-"url": "http://103.245.164.105:1935/aplay/disneych/playlist.m3u8",
-"referer": "https://we-play.tv/",
+"url": "https://we-play.live/watching/tv/fox-life",
+"referer": "https://www.we-play.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Food Network11",
 "image": "https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg",
-"url": "https://qweasdzxcasd.proxyplayer.site/public/dist/index.html?id=cb1196da4bfcf9ecb1543b7b36fb2451",
-"referer": "https://we-play.tv/",
+"url": "https://we-play.live/watching/tv/food-network",
+"referer": "hhttps://www.we-play.live/",
 "playInNatPlayer": "true"
 },
 
