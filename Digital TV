@@ -15,7 +15,7 @@
 {
 "name": "ไทย ทีวี 3",
 "image": "https://ztvthai.online/uploads/tv_image/sm/3hd.png",
-"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
+"url": "https://cdn781.stm.trueid.net/live1/c03_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=47ae9e00be&did=MTYzMjA0OTkwOQ&mpass=ssfLZwkS0PxPRxcM6b5brRG27H3V-vBzXvd6VZOLW8rUjWZzYW6JSaz9OG7IflmON0hcFhJaHywr22YCa8c4SZdvUXBQ7lqpASSeT3y-94U6Ohi-WjXgp4928jG-AScIi6A&sid=a18ddab8ee&rt=1632049909&tk=O8ZCuEVa2-aO-ljGyrse9lJLzUPCbEVdX7X87NXjTRw",
 "referer": "https://tv.trueid.net",
 "playInNatPlayer": "true"
 },
