@@ -1,0 +1,131 @@
+#EXTM3U 
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-081.png", TRUE PREMIER HD-1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-082.png", TRUE PREMIER HD-2
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8|Referer=https://ufabetcompany.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-083.png", TRUE PREMIER HD-3
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8|Referer=https://ufabetcompany.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-084.png", TRUE PREMIER HD-4
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-085.png", TRUE PREMIER HD-5
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-091.png", TSP HD
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-092.png", TSP HD-2
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-093.png", TSP HD-3
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-094.png", TSP HD-4
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-095.png", TSP 5
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-096.png", TSP 7
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-097.png", BEIN HD 1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-098.png", BEIN HD 2
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-099.png", BEIN HD 3
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-087.png", SPOTV
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-088.png", SPOTV 2
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8|Referer=https://dooball2you.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-100.png", TRUE TENNIS
+https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-089.png", GOLF HD
+https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-007.png", T-SPORTS
+https://www.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/20/eJlBRq.png", MUTV
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/20/eJlf6z.png", LFCTV 
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/21/eeXAZv.png", S' ACTION
+https://maxsport.one/supersportaction.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/21/eeauIR.png", S' TENNIS
+https://maxsport.one/supersportennis.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/21/eepzM1.png", S' LALIGA
+https://maxsport.one/supersportlaliga.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eevAcz.png", S' CRICKET
+https://maxsport.one/supersportcricket.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeGroy.png", S' RUGBY
+https://maxsport.one/supersportrugby.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeGyDR.png", S' BLITZ
+https://maxsport.one/supersportrugby.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeJdVI.png", S' GOLF
+https://maxsport.one/supersportgolf.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeGD5Q.png", S' MAXIMO1
+https://maxsport.one/supersportmaximo1.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/31/m3yMFu.png", S' FOOTBALL
+https://maxsport.one/supersportfootball.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/31/m3IP4g.png", S' MOTORSPORT
+https://maxsport.one/supersportmotorsport.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/31/m3MNsE.png", S' PREMIER
+https://maxsport.one/supersportpremier.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/31/m3MeHg.png", S' PSL
+https://maxsport.one/superpsl.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeJ9XQ.png", S' VARIETY1
+https://maxsport.one/supersportvariety1.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeJtzS.png", S' VARIETY2
+https://maxsport.one/supersportvariety2.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeJwRn.png", S' VARIETY3
+https://maxsport.one/supersportvariety3.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/22/eeJ16g.png", S' VARIETY4
+https://maxsport.one/supersportvariety4.php
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/23/eFXnzS.png", ASTRO1 
+https://ufa77.tv/channel?ch=astrosupersport1|Referer=https://ufa77.tv/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/23/eFXX12.png", ASTRO2 
+https://ufa77.tv/channel?ch=astrosupersport2|Referer=https://ufa77.tv/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/23/eFpYy2.png", ASTRO3 
+https://ufa77.tv/channel?ch=astrosupersport3|Referer=https://ufa77.tv/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/23/eFpq7P.png", ASTRO4 
+https://ufa77.tv/channel?ch=astrosupersport4|Referer=https://ufa77.tv/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/23/eFpVGy.png", ASTRO5 
+https://ufa77.tv/channel?ch=astrosupersport5|Referer=https://ufa77.tv/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-051.png", HBO HD TH
+https://mediasv.online/dvr/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjMgMTA6NDM6MjcgUE0maGFzaF92YWx1ZT1LOTVaQzR3ZGcrd1ZneHNwbTFEdGNBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTExJmlkPWNoXzE0MTA2|Referer=https://wacth.tv/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-054.png", HBO Family 
+https://dl.dropbox.com/s/p8mj3isru15sai4/hbof.m3u8|Referer=https://ais-vidnt.com
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-053.png", HBO Hits 
+https://dl.dropbox.com/s/1hwgieiufztu0lr/hbohits.m3u8|Referer=https://ais-vidnt.com
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-052.png", HBO Signature 
+https://dl.dropbox.com/s/9rrl1d6uh8qfb29/hbosignature.m3u8|Referer=https://ais-vidnt.com
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/23/eIW6TQ.png", CINEMAX TH
+https://mediasv.online/dvr/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjMgMTA6NDM6MTYgUE0maGFzaF92YWx1ZT1hQVdrdVFUbVRFUWwrMDB1ODdNTFZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE1JmlkPWNoXzU5NTg3|Referer=https://wacth.tv/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-056.png", AXN HD
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-059.png", WARNER 
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-043.png",TRUE THAI FILM
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-042.png", TRUE MOVIEHITS 
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-045.png", TRUE FILMHD1
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-067.png", LIFETIME HD
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-044.png", TRUE SERIES
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-047.png", CHINESE MORE
+https://www.livedoomovies.com:4432/02_FoxMoviesTH_720p/chunklist.m3u8|Referer=https://www.madoohd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-047.png", ASIAN MORE ทดลอง
+https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmfklstgerter5|Referer=https://www.ufazeed.co/|Origin=https://embed-dev.blackboxsys.net
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-073.png", NATION GEOGRAPHIC       
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-077.png", TRUE EXPLORE WILD
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/20/eJcbgS.png", BBC EARTH
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/03/20/eJg15y.png", BBC4HD
+https://streaming.livescorethai.net/iptv/uk-bbc4hd.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-074.png", HITSTORY 
+https://www.livedoomovies.com:4432/02_HISTORYHD_720p/chunklist.m3u8|Referer=https://www.madoohd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-076.png", ANIMALPLANET
+https://www.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8|Referer=https://www.madoohd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-072.png", DISCOVERY ASIA
+https://www.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u8|Referer=https://www.madoohd.com/
+#EXTINF: tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-061.png", TRUE XZYTE
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8|Referer=https://freetvdd.com
+#EXTINF: tvg-logo="https://sv1.picz.in.th/images/2023/04/02/mKtQWW.png", NK Movies
+http://sv1.afdc.live:9898/stream/nktv.stream/chunklist.m3u8
